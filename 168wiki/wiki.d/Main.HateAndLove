@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-us) AppleWebKit/523.10.3 (KHTML, like Gecko) Version/3.0.4 Safari/523.10
+author=gnugnu
+csum=
+ctime=1196413525
+host=24.215.192.216
+name=Main.HateAndLove
+rev=2
+targets=Main.Christ,Main.Love
+text=I hate and I [[love]]. You may ask why I do it. I don't know, but I feel it so, and I am [[Christ|crucified]].
+time=1198173419
+author:1198173419=gnugnu
+diff:1198173419:1196413525:=1c1%0a%3c I hate and I [[love]]. You may ask why I do it. I don't know, but I feel it so, and I am [[Christ|crucified]].%0a\ No newline at end of file%0a---%0a> I hate and I [[love]]. You may ask why I do it. I don't know, but I feel it so, and I am [[crucified]].%0a\ No newline at end of file%0a
+host:1198173419=24.215.192.216
+author:1196413525=gnugnu
+diff:1196413525:1196413525:=1d0%0a%3c I hate and I [[love]]. You may ask why I do it. I don't know, but I feel it so, and I am [[crucified]].%0a\ No newline at end of file%0a
+host:1196413525=134.173.94.220

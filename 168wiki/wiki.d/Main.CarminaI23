@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+author=gnugnu
+csum=
+ctime=1196412440
+host=134.173.94.220
+name=Main.CarminaI23
+rev=2
+targets=Main.You,Main.Never,Main.LoveThatMakesYouKindOfCreepy
+text=Vitas hinnuleo me similis, Chloë,\\%0aQuaerenti pavidam montibus aviis\\%0aMatrem non sine vano\\%0aAurarum et siluae metu.\\%0a%0aNam seu mobilibus veris inhorruit\\%0aAdventus foliis, seu virides rubum\\%0aDimovere lacertae,\\%0aEt corde et genibus tremit.\\%0a%0aAtqui non ego [[you|te]] tigris ut aspera\\%0aGaetulusve leo frangere persequor:\\%0aTandem desine matrem\\%0aTempestiva sequi [[never|viro]].\\\%0a%0a[[LoveThatMakesYouKindOfCreepy|TRANSLATE]]
+time=1196412607
+author:1196412607=gnugnu
+diff:1196412607:1196412440:=11c11%0a%3c Atqui non ego [[you|te]] tigris ut aspera\\%0a---%0a> Atqui non ego te tigris ut aspera\\%0a14,16c14,16%0a%3c Tempestiva sequi [[never|viro]].\\\%0a%3c %0a%3c [[LoveThatMakesYouKindOfCreepy|TRANSLATE]]%0a\ No newline at end of file%0a---%0a> Tempestiva sequi viro.\\%0a> %0a> [[TRANSLATE|LoveThatMakesYouKindOfCreepy]]%0a\ No newline at end of file%0a
+host:1196412607=134.173.94.220
+author:1196412440=gnugnu
+diff:1196412440:1196412440:=1,16d0%0a%3c Vitas hinnuleo me similis, Chloë,\\%0a%3c Quaerenti pavidam montibus aviis\\%0a%3c Matrem non sine vano\\%0a%3c Aurarum et siluae metu.\\%0a%3c %0a%3c Nam seu mobilibus veris inhorruit\\%0a%3c Adventus foliis, seu virides rubum\\%0a%3c Dimovere lacertae,\\%0a%3c Et corde et genibus tremit.\\%0a%3c %0a%3c Atqui non ego te tigris ut aspera\\%0a%3c Gaetulusve leo frangere persequor:\\%0a%3c Tandem desine matrem\\%0a%3c Tempestiva sequi viro.\\%0a%3c %0a%3c [[TRANSLATE|LoveThatMakesYouKindOfCreepy]]%0a\ No newline at end of file%0a
+host:1196412440=134.173.94.220

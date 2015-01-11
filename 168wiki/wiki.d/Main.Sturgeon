@@ -1,0 +1,21 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=Timber of Fennario
+csum=
+ctime=1191309618
+host=134.173.94.14
+name=Main.Sturgeon
+rev=3
+targets=
+text=%0a%0a%0a%0a
+time=1198037421
+author:1198037421=Timber of Fennario
+diff:1198037421:1191399914:=1,4c1,16%0a%3c %0a%3c %0a%3c %0a%3c %0a---%0a> *[[Misshepezhieu| they mixed the oil with ocher and used their fingers]]%0a> %0a> %0a> *[[blueberry island]]%0a> %0a> %0a> *[[sturgeon beach site]]%0a> %0a> %0a> *[[the lake]]%0a> %0a> %0a> *[[lost sandal]]%0a> %0a> %0a> %0a
+host:1198037421=134.173.94.14
+author:1191399914=TimberOfFennario
+diff:1191399914:1191309618:minor=1,16c1,15%0a%3c *[[Misshepezhieu| they mixed the oil with ocher and used their fingers]]%0a%3c %0a%3c %0a%3c *[[blueberry island]]%0a%3c %0a%3c %0a%3c *[[sturgeon beach site]]%0a%3c %0a%3c %0a%3c *[[the lake]]%0a%3c %0a%3c %0a%3c *[[lost sandal]]%0a%3c %0a%3c %0a%3c %0a---%0a> *!!! [[Misshepezhieu| they mixed oil with ocher and used their fingers]]%0a> %0a> %0a> *!!! [[blueberry island]]%0a> %0a> %0a> *!!! [[sturgeon beach site]]%0a> %0a> %0a> *!!! [[the lake]]%0a> %0a> %0a> %0a> %0a> %0a
+host:1191399914=134.173.93.85
+author:1191309618=TimberOfFennario
+csum:1191309618=sturgeon node
+diff:1191309618:1191309618:=1,15d0%0a%3c *!!! [[Misshepezhieu| they mixed oil with ocher and used their fingers]]%0a%3c %0a%3c %0a%3c *!!! [[blueberry island]]%0a%3c %0a%3c %0a%3c *!!! [[sturgeon beach site]]%0a%3c %0a%3c %0a%3c *!!! [[the lake]]%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a
+host:1191309618=134.173.94.178

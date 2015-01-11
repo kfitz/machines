@@ -1,0 +1,26 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11
+author=campagnolo
+csum=
+ctime=1196845992
+host=134.173.88.69
+name=Main.Sadism
+rev=5
+targets=Main.Venus,Main.CourtlyLove
+text=%25red%25[[Venus | Sadism]]%25%25 is all right in its place, but it should be directed to %25red%25[[CourtlyLove | proper ends.]]%25%25\\%0a~Sigmund Freud
+time=1196846483
+author:1196846483=campagnolo
+diff:1196846483:1196846090:=1c1%0a%3c %25red%25[[Venus | Sadism]]%25%25 is all right in its place, but it should be directed to %25red%25[[CourtlyLove | proper ends.]]%25%25\\%0a---%0a> Sadism is all right in its place, but it should be directed to %25red%25[[CourtlyLove | proper ends.]]%25%25\\%0a
+host:1196846483=134.173.88.69
+author:1196846090=campagnolo
+diff:1196846090:1196846071:=1c1%0a%3c Sadism is all right in its place, but it should be directed to %25red%25[[CourtlyLove | proper ends.]]%25%25\\%0a---%0a> Sadism is all right in its place, but it should be directed to %25red%25[[CourtlyLove | proper ends.]]%25%25%0a
+host:1196846090=134.173.88.69
+author:1196846071=campagnolo
+diff:1196846071:1196846045:=1c1%0a%3c Sadism is all right in its place, but it should be directed to %25red%25[[CourtlyLove | proper ends.]]%25%25%0a---%0a> Sadism is all right in its place, but it should be directed to %25red%25[[courtlylove | proper ends.]]%25%25%0a
+host:1196846071=134.173.88.69
+author:1196846045=campagnolo
+diff:1196846045:1196845992:=1c1%0a%3c Sadism is all right in its place, but it should be directed to %25red%25[[courtlylove | proper ends.]]%25%25%0a---%0a> Sadism is all right in its place, but it should be directed to proper ends.%0a
+host:1196846045=134.173.88.69
+author:1196845992=campagnolo
+diff:1196845992:1196845992:=1,2d0%0a%3c Sadism is all right in its place, but it should be directed to proper ends.%0a%3c ~Sigmund Freud%0a\ No newline at end of file%0a
+host:1196845992=134.173.88.69

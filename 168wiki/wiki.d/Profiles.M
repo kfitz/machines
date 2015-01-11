@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.9) Gecko/20071025 Firefox/2.0.0.9
+author=jughead
+csum=
+ctime=1194630832
+host=134.173.70.1
+name=Profiles.M
+rev=2
+targets=
+text=%0a%0a
+time=1195949926
+author:1195949926=jughead
+diff:1195949926:1194630832:=2c2,22%0a%3c %0a---%0a> !! Results 1 - 10 of about 212,000 for stephanie tomlin. (0.12 seconds)%0a> %0a> %0a> [[http://www.poconorecord.com/apps/pbcs.dll/article?AID=/20071025/NEWS/710250318 | Police: Driver who hit jogger was speeding - poconorecord.com]]\\%0a> According to that report, Stephanie Tomlin, 19, of Brodheasville, was traveling east on Dreher Avenue in Stroud Township at 10:10 a.m. on Oct. 14. ...%0a> %0a> [[http://www.xanga.com/Amethyst_Rose_09 | amethyst_rose_09's Xanga Site]]\\%0a> Chris Winters and Stephanie Tomlin... very interesting people to be around. I'm gettin off of here. If I hear that someone talks behind my back or says ...%0a>  %0a> [[http://phoenix.gov/NEWSREL/ARCHIVE/2004/APRIL/youngart.html | NEWS RELEASE - INTERNATIONAL YOUNG ARTIST WINNERS SELECTED]]\\%0a> Stephanie Tomlin, Chaparral High School student, is the first place winner of the International Young Artist Competition sponsored by the Phoenix Sister ... %0a> %0a> [[http://www.google.com/search?q=stephanie+tomlin&hl=en&start=20&sa=N |Marine Lance Cpl. Harry Swain IV, January 31, 2005 - NJ.com: New]]\\%0a> German teacher Stephanie Tomlin said Swain was a good student, but one who didn't always apply himself. She said he was a voracious reader who liked ...%0a> %0a> %0a> [[http://www.madison.com/archives/read.php?ref=/wsj/2005/02/01/0502010448.php | madison.com]]%0a> \\%0a> Stephanie Tomlin; his daughter, Sally (Jeff) Bries-Wiggen of Boulder, Colo.; ..... 28, 2005, in Arizona. He was born on April 7, 1936, in Madison, ...%0a>  %0a> %0a
+host:1195949926=134.173.70.1
+author:1194630832=jughead
+diff:1194630832:1194630832:=1,22d0%0a%3c %0a%3c !! Results 1 - 10 of about 212,000 for stephanie tomlin. (0.12 seconds)%0a%3c %0a%3c %0a%3c [[http://www.poconorecord.com/apps/pbcs.dll/article?AID=/20071025/NEWS/710250318 | Police: Driver who hit jogger was speeding - poconorecord.com]]\\%0a%3c According to that report, Stephanie Tomlin, 19, of Brodheasville, was traveling east on Dreher Avenue in Stroud Township at 10:10 a.m. on Oct. 14. ...%0a%3c %0a%3c [[http://www.xanga.com/Amethyst_Rose_09 | amethyst_rose_09's Xanga Site]]\\%0a%3c Chris Winters and Stephanie Tomlin... very interesting people to be around. I'm gettin off of here. If I hear that someone talks behind my back or says ...%0a%3c  %0a%3c [[http://phoenix.gov/NEWSREL/ARCHIVE/2004/APRIL/youngart.html | NEWS RELEASE - INTERNATIONAL YOUNG ARTIST WINNERS SELECTED]]\\%0a%3c Stephanie Tomlin, Chaparral High School student, is the first place winner of the International Young Artist Competition sponsored by the Phoenix Sister ... %0a%3c %0a%3c [[http://www.google.com/search?q=stephanie+tomlin&hl=en&start=20&sa=N |Marine Lance Cpl. Harry Swain IV, January 31, 2005 - NJ.com: New]]\\%0a%3c German teacher Stephanie Tomlin said Swain was a good student, but one who didn't always apply himself. She said he was a voracious reader who liked ...%0a%3c %0a%3c %0a%3c [[http://www.madison.com/archives/read.php?ref=/wsj/2005/02/01/0502010448.php | madison.com]]%0a%3c \\%0a%3c Stephanie Tomlin; his daughter, Sally (Jeff) Bries-Wiggen of Boulder, Colo.; ..... 28, 2005, in Arizona. He was born on April 7, 1936, in Madison, ...%0a%3c  %0a%3c %0a
+host:1194630832=134.173.74.241

@@ -1,0 +1,18 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=Timber of Fennario
+csum=
+ctime=1191308941
+host=134.173.94.14
+name=Main.Kincaid3
+rev=2
+targets=
+text=
+time=1198037071
+author:1198037071=Timber of Fennario
+diff:1198037071:1191308941:=0a1,4%0a> !!Jamaica Kincaid, ''In History''\\\%0a> III.\\%0a> %0a> The botanists are from the same part of the world as the man who sailed on the three ships, that same man who started the narrative from which I trace my beginning. And the botanists are like that man who sailed on the ships in a way, too: they emptied the worlds of things animal, mineral and vegetable, of their names, and replaced these names with names pleasing to them; the recognized names are now reasonable, as reason is a pleasure to them.%0a\ No newline at end of file%0a
+host:1198037071=134.173.94.14
+author:1191308941=TimberOfFennario
+csum:1191308941=kincaid 3 content, no links yet
+diff:1191308941:1191308941:=1,4d0%0a%3c !!Jamaica Kincaid, ''In History''\\\%0a%3c III.\\%0a%3c %0a%3c The botanists are from the same part of the world as the man who sailed on the three ships, that same man who started the narrative from which I trace my beginning. And the botanists are like that man who sailed on the ships in a way, too: they emptied the worlds of things animal, mineral and vegetable, of their names, and replaced these names with names pleasing to them; the recognized names are now reasonable, as reason is a pleasure to them.%0a\ No newline at end of file%0a
+host:1191308941=134.173.93.85

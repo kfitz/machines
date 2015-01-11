@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-us) AppleWebKit/523.10.3 (KHTML, like Gecko) Version/3.0.4 Safari/523.10
+author=gnugnu
+csum=
+ctime=1198175211
+host=24.215.192.216
+name=Main.AuldLangSyne
+rev=1
+targets=Main.Love
+text=Should auld acquaintance be forgot, \\%0a%0aAnd never brought to mind?\\%0a%0aShould auld acquaintance be forgot,\\%0a%0aAnd days of auld lang syne? And days of auld lang syne, my dear,\\%0a%0aAnd days of auld lang syne.\\%0a%0aShould auld acquaintance be forgot,\\%0a%0aAnd days of auld lang syne?\\%0a%0aWe twa hae run aboot the braes\\%0a%0aAnd pu'd the gowans fine.\\%0a%0aWe've wandered mony a weary foot,\\%0a%0aSin' auld lang syne.\\%0a%0aSin' auld lang syne, my dear,\\%0a%0aSin' auld lang syne,\\%0a%0aWe've wandered mony a weary foot,\\%0a%0aSin' auld ang syne.\\%0a%0aWe twa hae sported i' the burn,\\%0a%0aFrom morning sun till dine,\\%0a%0aBut seas between us braid hae roared\\%0a%0aSin' auld lang syne.\\%0a%0aSin' auld lang syne, [[Love|my dear]],\\%0a%0aSin' auld lang syne.\\%0a%0aBut seas between us braid hae roared\\%0a%0aSin' auld lang syne.\\%0a%0aAnd ther's a hand, my trusty friend,\\%0a%0aAnd gie's a hand o' thine;\\%0a%0aWe'll tak' a cup o' kindness yet,\\%0a%0aFor auld lang syne.\\%0a%0aFor auld lang syne, my dear,\\%0a%0aFor auld lang syne,\\%0a%0aWe'll tak' a cup o' kindness yet,\\%0a%0aFor auld lang syne
+time=1198175211
+author:1198175211=gnugnu
+diff:1198175211:1198175211:=1,61d0%0a%3c Should auld acquaintance be forgot, \\%0a%3c %0a%3c And never brought to mind?\\%0a%3c %0a%3c Should auld acquaintance be forgot,\\%0a%3c %0a%3c And days of auld lang syne? And days of auld lang syne, my dear,\\%0a%3c %0a%3c And days of auld lang syne.\\%0a%3c %0a%3c Should auld acquaintance be forgot,\\%0a%3c %0a%3c And days of auld lang syne?\\%0a%3c %0a%3c We twa hae run aboot the braes\\%0a%3c %0a%3c And pu'd the gowans fine.\\%0a%3c %0a%3c We've wandered mony a weary foot,\\%0a%3c %0a%3c Sin' auld lang syne.\\%0a%3c %0a%3c Sin' auld lang syne, my dear,\\%0a%3c %0a%3c Sin' auld lang syne,\\%0a%3c %0a%3c We've wandered mony a weary foot,\\%0a%3c %0a%3c Sin' auld ang syne.\\%0a%3c %0a%3c We twa hae sported i' the burn,\\%0a%3c %0a%3c From morning sun till dine,\\%0a%3c %0a%3c But seas between us braid hae roared\\%0a%3c %0a%3c Sin' auld lang syne.\\%0a%3c %0a%3c Sin' auld lang syne, [[Love|my dear]],\\%0a%3c %0a%3c Sin' auld lang syne.\\%0a%3c %0a%3c But seas between us braid hae roared\\%0a%3c %0a%3c Sin' auld lang syne.\\%0a%3c %0a%3c And ther's a hand, my trusty friend,\\%0a%3c %0a%3c And gie's a hand o' thine;\\%0a%3c %0a%3c We'll tak' a cup o' kindness yet,\\%0a%3c %0a%3c For auld lang syne.\\%0a%3c %0a%3c For auld lang syne, my dear,\\%0a%3c %0a%3c For auld lang syne,\\%0a%3c %0a%3c We'll tak' a cup o' kindness yet,\\%0a%3c %0a%3c For auld lang syne%0a\ No newline at end of file%0a
+host:1198175211=24.215.192.216

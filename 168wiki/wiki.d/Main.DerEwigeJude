@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=Timber of Fennario
+csum=
+ctime=1198039233
+host=134.173.94.14
+name=Main.DerEwigeJude
+rev=2
+targets=Main.Fritz
+text=Goebbels stole the child murderer confession scene from [[fritz|"M"]] and used it as antisemitic propaganda.  Peter Lorre was jewish.  To show "Der ewige Jude" in Germany you must be in an academic setting and have formal education in the history of the holocaust.  There are no exceptions.\\\%0a%0a%25center%25http://www.dhm.de/lemo/objekte/pict/96003766/index.jpg http://www.rageboy.com/mbimages/der-ewige-jude2.jpg
+time=1198039288
+author:1198039288=Timber of Fennario
+diff:1198039288:1198039233:=1,2c1,2%0a%3c Goebbels stole the child murderer confession scene from [[fritz|"M"]] and used it as antisemitic propaganda.  Peter Lorre was jewish.  To show "Der ewige Jude" in Germany you must be in an academic setting and have formal education in the history of the holocaust.  There are no exceptions.\\\%0a%3c %0a---%0a> Goebbels stole the child murderer confession scene from "M" and used it as antisemitic propaganda.  Peter Lorre was jewish.  To show "Der ewige Jude" in Germany you must be in an academic setting and have formal education in the history of the holocaust.  There are no exceptions.\\\%0a> %0a
+host:1198039288=134.173.94.14
+author:1198039233=Timber of Fennario
+diff:1198039233:1198039233:=1,3d0%0a%3c Goebbels stole the child murderer confession scene from "M" and used it as antisemitic propaganda.  Peter Lorre was jewish.  To show "Der ewige Jude" in Germany you must be in an academic setting and have formal education in the history of the holocaust.  There are no exceptions.\\\%0a%3c %0a%3c %25center%25http://www.dhm.de/lemo/objekte/pict/96003766/index.jpg http://www.rageboy.com/mbimages/der-ewige-jude2.jpg%0a\ No newline at end of file%0a
+host:1198039233=134.173.94.14

@@ -1,0 +1,19 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.7) Gecko/20070914 Firefox/2.0.0.7
+author=jughead
+csum=added a link
+ctime=1191399781
+host=134.173.90.3
+name=Main.Wetland
+rev=2
+targets=Main.Mud
+text=!!! nipples is how deep\\\%0a[[mud | sunk in the mud]]%0a%0a
+time=1191786673
+author:1191786673=jughead
+csum:1191786673=added a link
+diff:1191786673:1191399781:=2,3c2,3%0a%3c [[mud | sunk in the mud]]%0a%3c %0a---%0a> sunk in the mud%0a> %0a
+host:1191786673=134.173.90.3
+author:1191399781=TimberOfFennario
+csum:1191399781=content, no links
+diff:1191399781:1191399781:=1,3d0%0a%3c !!! nipples is how deep\\\%0a%3c sunk in the mud%0a%3c %0a
+host:1191399781=134.173.93.85

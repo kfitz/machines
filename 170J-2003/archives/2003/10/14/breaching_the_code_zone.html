@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<title>The Literary Machine: Breaching the code zone</title>
+
+<link rel="stylesheet" href="../../../styles-site.css" type="text/css" />
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://machines.pomona.edu/170J-2003/index.rdf" />
+
+<link rel="start" href="http://machines.pomona.edu/170J-2003/" title="Home" />
+<link rel="prev" href="http://machines.pomona.edu/170J-2003/archives/2003/10/09/contradictions.html" title="Contradictions" />
+
+<link rel="next" href="http://machines.pomona.edu/170J-2003/archives/2003/10/14/personal_accounts_of_technology.html" title="Personal accounts of technology" />
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'sax.pomona.edu';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+
+
+
+
+</head>
+
+<body>
+
+<div id="banner">
+<h1><a href="http://machines.pomona.edu/170J-2003/" accesskey="1">The Literary Machine</a></h1>
+<span class="description">Writing in the Human/Computer Interface</span>
+</div>
+
+<div id="container">
+
+<div class="blog">
+
+<div id="menu">
+<a href="http://machines.pomona.edu/170J-2003/archives/2003/10/09/contradictions.html">&laquo; Contradictions</a> |
+
+<a href="http://machines.pomona.edu/170J-2003/">Main</a>
+| <a href="http://machines.pomona.edu/170J-2003/archives/2003/10/14/personal_accounts_of_technology.html">Personal accounts of technology &raquo;</a>
+
+</div>
+
+</div>
+
+
+<div class="blog">
+
+<h2 class="date">October 14, 2003</h2>
+
+<div class="blogbody">
+
+<h3 class="title">Breaching the code zone</h3>
+
+<p>We've been talking lately about the similarities and differences between the organic, fallible human world and the cold, logical realm of the machine. We've also been discussing attempts to bridge the gap between the two spheres, usually in the form of Ullman or one of her fellow programmers tackling machine code or something similar. But I've come upon an emissary from the world of machines, a system with the basic goal of learning about human cognition by asking <i>us</i> questions. It's actually a pretty simple idea - the computer has to guess what word you're thinking of in 20 questions or less - but it fascinates me as a kind of inverse Turing Test. Significantly, the answers available to each question are not simply "yes" and "no", but include "probably", "depends" and "partly" among other options - much more complicated than the "either OK or Cancel" responses we're used to feeding into computers. Once the system has guessed your word, it then internalizes any incongruities between your answers and those it expected, in order to formulate its own complicated definitions of the English language. I have to wonder if a program like this might eventually be able to perfectly replicate human speech, mirroring every subtle nuance of our language learned from millions of interactions like this simple guessing game. Or maybe I'm just paranoid.</p>
+
+<p>Anyway, try it out, it's fun (and a little scary). Here's the link: <a href="http://y.20q.net:8095/btest">http://y.20q.net:8095/btest</a></p>
+
+<p>Chris.</p>
+
+<a name="more"></a>
+
+
+<span class="posted">Posted by cmeyer at October 14, 2003 01:09 AM
+
+<br /></span>
+
+</div>
+
+
+<div class="comments-head"><a name="comments"></a>Comments</div>
+
+<div class="comments-body">
+<a name="181"></a>
+<p>I went to the site in question and tried about five or six different words.  Most of the time, it took the program 19 tries to guess the right answer.  When I looked at the results of the game we played together, I couldn’t help but notice the inaccuracies in the program’s answers when they were incongruous with my own.  I know a cat has fangs. The program said otherwise.  I laughed at the computer screen and felt proud of myself.  However, after that feeling faded, I realized that I was thinking of the program in terms of its computer-ness (sorry, but the word just sounds so right).  It was like a calculator told me that 2+2=5.  The fact that the program made an inexplicable error like that makes me stop laughing and worry about the computers that will some day make up our ruling class.  </p>
+<span class="comments-post">
+Posted by: <a href="mailto&#58;evanblair&#64;pomona&#46;edu">eblair</a> at October 14, 2003 05:52 PM  | 
+<a href="http://machines.pomona.edu/170J-2003/archives/2003/10/14/breaching_the_code_zone.html#181">
+Permalink to Comment</a></span>
+</div>
+<div class="comments-body">
+<a name="182"></a>
+<p>Yeah, Chris, it is a little scary, I agree.   How did it know I was thinking of a mango after such a seemingly simple round of unexceptional questions?   Why didn't it guess orange, or papaya?  Was it just because "mango" is the most likely guess, given the high number of people who have played the game thinking of mangos versus of papayas?  In the end, did it just come down to probability? </p>
+
+<p>It's a great example of how computers are capable of "learning" things and then adjusting/adapting themselves to factor in the new knowledge it has gained.   </p>
+
+<p>The more I think about it, and compare it to how I think my own process of learning/understanding language is, maybe we really are on the path of creating computers that "perfectly replicate human speech, mirroring every subtle nuance of our language learned from millions of interactions like this simple guessing game."   </p>
+
+<p>Sure, a computer could never "know" exactly what I was thinking when I used a given sentence.  It would just have to choose to understand my sentence as the highest probable intended meaning given its understanding of human language and how language is typically or usually used, based on its own experiences.   </p>
+
+<p>But that is what we always do when we try to understand what someone else is saying, isn't it?  (Or is it?)</p>
+
+<p>Very cool program, thanks for the link Chris.  <br />
+</p>
+<span class="comments-post">
+Posted by: <a href="http://machines.pomona.edu/170J-2003/">Audre</a> at October 14, 2003 08:29 PM  | 
+<a href="http://machines.pomona.edu/170J-2003/archives/2003/10/14/breaching_the_code_zone.html#182">
+Permalink to Comment</a></span>
+</div>
+<div class="comments-body">
+<a name="183"></a>
+<p>I was thinking of a "bottle of whiskey" and it guessed "whiskey."  Damn.  Like Audre, I looked over the list of seemingly simple questions, and I couldn't quite distinguish what made the difference - whyt not a bottle of wine?  A bottle of cola?  Hmmm.</p>
+<span class="comments-post">
+Posted by: <a href="http://sax.pomona.edu:16080/weblogs/ENGL_170J/">Alex</a> at October 14, 2003 10:24 PM  | 
+<a href="http://machines.pomona.edu/170J-2003/archives/2003/10/14/breaching_the_code_zone.html#183">
+Permalink to Comment</a></span>
+</div>
+
+
+
+</div>
+</div>
+</body>
+</html>

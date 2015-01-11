@@ -1,0 +1,24 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=TimberOfFennario
+csum=
+ctime=1194630199
+host=134.173.74.141
+name=Main.ReindeerArmies
+rev=4
+targets=
+text=%0a'''-18 armies in Siam rolling 3 against 5 in Indonesia rolling 2.'''%0a%0a %0a%0a%0a'''-Where ignorant armies clash by night.'''%0a
+time=1194630362
+author:1194630362=TimberOfFennario
+diff:1194630362:1194630261:=1c1%0a%3c %0a---%0a> %3c%3c%3c%3c%3c%3c%3c %0a3,6c3,7%0a%3c %0a%3c  %0a%3c %0a%3c %0a---%0a> =======%0a> '''18 armies in Siam rolling 3 against 5 in Indonesia rolling 2.'''%0a> >>>>>>> %0a> %0a> %0a
+host:1194630362=134.173.74.141
+author:1194630261=TimberOfFennario
+diff:1194630261:1194630221:=1,3d0%0a%3c %3c%3c%3c%3c%3c%3c%3c %0a%3c '''-18 armies in Siam rolling 3 against 5 in Indonesia rolling 2.'''%0a%3c =======%0a5,8c2,4%0a%3c >>>>>>> %0a%3c %0a%3c %0a%3c '''-Where ignorant armies clash by night.'''%0a---%0a> %0a> %0a> '''Where ignorant armies clash by night.'''%0a\ No newline at end of file%0a
+host:1194630261=134.173.74.141
+author:1194630221=TimberOfFennario
+diff:1194630221:1194630199:=1,3c1,3%0a%3c '''18 armies in Siam rolling 3 against 5 in Indonesia rolling 2.'''%0a%3c %0a%3c %0a---%0a> '''18 armies in Siam rolling 3 against 5 in Indonesia rolling 2'''%0a> %0a> %0a
+host:1194630221=134.173.74.141
+author:1194630199=TimberOfFennario
+csum:1194630199=armypagestart
+diff:1194630199:1194630199:=1,4d0%0a%3c '''18 armies in Siam rolling 3 against 5 in Indonesia rolling 2'''%0a%3c %0a%3c %0a%3c '''Where ignorant armies clash by night.'''%0a\ No newline at end of file%0a
+host:1194630199=134.173.74.141

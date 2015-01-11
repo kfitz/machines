@@ -1,0 +1,20 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-us) AppleWebKit/523.10.3 (KHTML, like Gecko) Version/3.0.4 Safari/523.10
+author=gnugnu
+csum=
+ctime=1198173523
+host=24.215.192.216
+name=Main.OTannenbaum
+rev=3
+targets=Main.Never
+text=O Tannenbaum, o Tannenbaum,\\%0awie treu sind deine Blätter!\\%0aDu grünst nicht nur\\%0a  zur Sommerzeit,\\%0aNein auch im Winter, wenn es schneit.\\%0aO Tannenbaum, o Tannenbaum,\\%0awie treu sind deine Blätter!\\%0a%0aO Tannenbaum, o Tannenbaum!\\%0aDu [[Never|kannst]] mir sehr gefallen!\\%0aWie oft hat nicht zur Weihnachtszeit\\%0aEin Baum von dir mich hoch erfreut!\\%0aO Tannenbaum, o Tannenbaum!\\%0aDu kannst mir sehr gefallen!\\%0a%0aO Tannenbaum, o Tannenbaum!\\%0aDein Kleid will mich\\%0a  was lehren:\\%0aDie Hoffnung und Beständigkeit\\%0aGibt Trost und Kraft\\%0a  zu jeder Zeit.\\%0aO Tannenbaum, o Tannenbaum!\\%0aDas soll dein Kleid\\%0a  mich lehren.
+time=1198173937
+author:1198173937=gnugnu
+diff:1198173937:1198173922:=10c10%0a%3c Du [[Never|kannst]] mir sehr gefallen!\\%0a---%0a> Du [[kannst|Never]] mir sehr gefallen!\\%0a
+host:1198173937=24.215.192.216
+author:1198173922=gnugnu
+diff:1198173922:1198173523:=10c10%0a%3c Du [[kannst|Never]] mir sehr gefallen!\\%0a---%0a> Du kannst mir sehr gefallen!\\%0a24c24,26%0a%3c   mich lehren.%0a\ No newline at end of file%0a---%0a>   mich lehren.%0a> %0a> [[tree | TRANSLATE]]%0a\ No newline at end of file%0a
+host:1198173922=24.215.192.216
+author:1198173523=gnugnu
+diff:1198173523:1198173523:=1,26d0%0a%3c O Tannenbaum, o Tannenbaum,\\%0a%3c wie treu sind deine Blätter!\\%0a%3c Du grünst nicht nur\\%0a%3c   zur Sommerzeit,\\%0a%3c Nein auch im Winter, wenn es schneit.\\%0a%3c O Tannenbaum, o Tannenbaum,\\%0a%3c wie treu sind deine Blätter!\\%0a%3c %0a%3c O Tannenbaum, o Tannenbaum!\\%0a%3c Du kannst mir sehr gefallen!\\%0a%3c Wie oft hat nicht zur Weihnachtszeit\\%0a%3c Ein Baum von dir mich hoch erfreut!\\%0a%3c O Tannenbaum, o Tannenbaum!\\%0a%3c Du kannst mir sehr gefallen!\\%0a%3c %0a%3c O Tannenbaum, o Tannenbaum!\\%0a%3c Dein Kleid will mich\\%0a%3c   was lehren:\\%0a%3c Die Hoffnung und Beständigkeit\\%0a%3c Gibt Trost und Kraft\\%0a%3c   zu jeder Zeit.\\%0a%3c O Tannenbaum, o Tannenbaum!\\%0a%3c Das soll dein Kleid\\%0a%3c   mich lehren.%0a%3c %0a%3c [[tree | TRANSLATE]]%0a\ No newline at end of file%0a
+host:1198173523=24.215.192.216

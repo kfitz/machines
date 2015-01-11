@@ -1,0 +1,23 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.9) Gecko/20071025 Firefox/2.0.0.9
+author=campagnolo
+csum=
+ctime=1194941715
+host=134.173.88.69
+name=Main.Kat
+rev=4
+targets=Main.TheKindThatMakesYouWishYouWerentInLove,Main.Ejaculating
+text="Booo!" Kat yelled, %25red%25[[ejaculating]]%25%25 the derision out of his mouth like only the old-fashioned officers could.\\%0aGoddamnit he thought to himself, one moment you're getting fragged in the trenches, a fucking\\%0asoldier for the people, and then you're at a [[TheKindThatMakesYouWishYouWerentInLove| %25red%25Dane Cook show%25%25]], and all that mustard gas was for nothing.%0a
+time=1195009591
+author:1195009591=campagnolo
+diff:1195009591:1194942578:=1c1%0a%3c "Booo!" Kat yelled, %25red%25[[ejaculating]]%25%25 the derision out of his mouth like only the old-fashioned officers could.\\%0a---%0a> "Booo!" Kat yelled, ejaculating the derision out of his mouth like only the old-fashioned officers could.\\%0a
+host:1195009591=134.173.88.69
+author:1194942578=campagnolo
+diff:1194942578:1194942271:=3c3%0a%3c soldier for the people, and then you're at a [[TheKindThatMakesYouWishYouWerentInLove| %25red%25Dane Cook show%25%25]], and all that mustard gas was for nothing.%0a---%0a> soldier for the people, and then you're at a Dane Cook show, and all that mustard gas was for nothing.%0a
+host:1194942578=134.173.88.69
+author:1194942271=campagnolo
+diff:1194942271:1194941715:=3c3%0a%3c soldier for the people, and then you're at a Dane Cook show, and all that mustard gas was for nothing.%0a---%0a> soldier for the motherland, and then you're at a Dane Cook show, and all that mustard gas was for nothing.%0a
+host:1194942271=134.173.88.69
+author:1194941715=campagnolo
+diff:1194941715:1194941715:=1,3d0%0a%3c "Booo!" Kat yelled, ejaculating the derision out of his mouth like only the old-fashioned officers could.\\%0a%3c Goddamnit he thought to himself, one moment you're getting fragged in the trenches, a fucking\\%0a%3c soldier for the motherland, and then you're at a Dane Cook show, and all that mustard gas was for nothing.%0a
+host:1194941715=134.173.88.69

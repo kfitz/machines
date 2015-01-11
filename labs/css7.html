@@ -1,0 +1,49 @@
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+<title>css, part 2</title>
+<link rel="stylesheet" href="style1.css" type="text/css" />
+</head>
+
+<body>
+
+<h1>CSS, Part 2</h1>
+
+<h2>IDs</h2>
+
+<p>There are times when you want to define the properties of an entire area or division of your page, rather than setting the page's properties one tag at a time.  You can do this by defining an ID in your CSS file:</p>
+
+<blockquote><code>#content {<br />
+&nbsp;&nbsp;&nbsp;&nbsp;font-family: verdana,arial,sans-serif;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;font-size: 1.1em;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;line-height: 1.6em;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;color: #333;<br />
+}<br />
+</code></blockquote>
+
+<p>Note that while a class name in your CSS begins with a period, an ID name begins with a pound sign.  The difference between classes and IDs is an important one:  classes can be applied repeatedly within your HTML file, and are used to define elements on the page that you want styled similarly.  IDs, by contrast, can only be used once on any given page, and are usually used to define a region of a page (like a navigation bar) that is used on many different pages.</p>
+
+<p>We would use our "content" ID by including code like this in our page:</p>
+
+<blockquote><code>&lt;div id="content"&gt;This is the page's content.&lt;/div&gt;</code></blockquote>
+
+<p>When you actually include this code in your HTML document, it winds up looking like this:</p>
+
+<div id="content"><p>This paragraph should be rendered in a sans-serif font (preferably Verdana), it should be slightly larger than average, with reasonable line spacing, and it should be dark gray in color.</p></div>
+
+
+<p>&nbsp;</p>
+
+<p><a href="css8.html">Go to the next page.</a></p>
+
+<p><a href="css6.html">Go back to the beginning.</a></p>
+
+<p><a href="index.html">labs home</a><br />
+<a href="index.html">machines home</a></p>
+
+</body>
+
+</html>

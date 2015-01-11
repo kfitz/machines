@@ -1,0 +1,26 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.9) Gecko/20071025 Firefox/2.0.0.9
+author=campagnolo
+csum=
+ctime=1194940978
+host=134.173.88.69
+name=Main.GAS
+rev=5
+targets=Main.Kat
+text=I grab for my gas mask. Some distance from me there lies someone.I think of nothing but this:\\%0aThat fellow there must know: Gaaas---Gaaas-----\\%0a%0a%0aI call, I lean toward him, I swipe at him with the satchel,\\%0ahe doesn't see--once again , again--he merely ducks--its a recruit--\\%0aI look at %25blue%25[[{+Kat+}]]%25%25 desperately, he has his mask on---I pull out mine, too,\\%0amy helmet falls to one side,it slips over my face, I reach the man,\\%0ahis satchel is on the side nearest me, I seize the mask, pull it over\\%0ahis head, he understands, I let go and with a jump drop into the shell-hole.\\%0a%0a%0aThe dull thud of the gas-shells mingles with the crashes of the high explosives.\\%0aA bell sounds between the explosions, gongs, and metal clappers warning everyone---Gas---Gas-----Gaas.
+time=1194942205
+author:1194942205=campagnolo
+diff:1194942205:1194941268:minor=7c7%0a%3c I look at %25blue%25[[{+Kat+}]]%25%25 desperately, he has his mask on---I pull out mine, too,\\%0a---%0a> I look at [[Kat]] desperately, he has his mask on---I pull out mine, too,\\%0a
+host:1194942205=134.173.88.69
+author:1194941268=campagnolo
+diff:1194941268:1194941093:=7c7%0a%3c I look at [[Kat]] desperately, he has his mask on---I pull out mine, too,\\%0a---%0a> I look at Kat desperately, he has his mask on---I pull out mine, too,\\%0a
+host:1194941268=134.173.88.69
+author:1194941093=campagnolo
+diff:1194941093:1194941078:minor=14c14%0a%3c A bell sounds between the explosions, gongs, and metal clappers warning everyone---Gas---Gas-----Gaas.%0a\ No newline at end of file%0a---%0a> A bell sounds between the explosions, gongs, and metal clappers warning everyone\\---Gas---Gas-----Gaas.%0a\ No newline at end of file%0a
+host:1194941093=134.173.88.69
+author:1194941078=campagnolo
+diff:1194941078:1194940978:minor=1,4c1,6%0a%3c I grab for my gas mask. Some distance from me there lies someone.I think of nothing but this:\\%0a%3c That fellow there must know: Gaaas---Gaaas-----\\%0a%3c %0a%3c %0a---%0a> I grab for my gas mask. Some distance from me there lies someone.\\%0a> I think of nothing but this:\\%0a> That fellow there must know: %0a> %0a> Gaaas---Gaaas-----\\%0a> %0a7,12c9,12%0a%3c I look at Kat desperately, he has his mask on---I pull out mine, too,\\%0a%3c my helmet falls to one side,it slips over my face, I reach the man,\\%0a%3c his satchel is on the side nearest me, I seize the mask, pull it over\\%0a%3c his head, he understands, I let go and with a jump drop into the shell-hole.\\%0a%3c %0a%3c %0a---%0a> I look at Kat desperately, he has his mask on---I pull out mine, too, my helmet falls to one side,\\%0a> it slips over my face, I reach the man, his satchel is on the side nearest me,\\%0a> I seize the mask, pull it over his head, he understands, I let go and with a jump drop into the shell-hole.\\%0a> %0a
+host:1194941078=134.173.88.69
+author:1194940978=campagnolo
+diff:1194940978:1194940978:=1,14d0%0a%3c I grab for my gas mask. Some distance from me there lies someone.\\%0a%3c I think of nothing but this:\\%0a%3c That fellow there must know: %0a%3c %0a%3c Gaaas---Gaaas-----\\%0a%3c %0a%3c I call, I lean toward him, I swipe at him with the satchel,\\%0a%3c he doesn't see--once again , again--he merely ducks--its a recruit--\\%0a%3c I look at Kat desperately, he has his mask on---I pull out mine, too, my helmet falls to one side,\\%0a%3c it slips over my face, I reach the man, his satchel is on the side nearest me,\\%0a%3c I seize the mask, pull it over his head, he understands, I let go and with a jump drop into the shell-hole.\\%0a%3c %0a%3c The dull thud of the gas-shells mingles with the crashes of the high explosives.\\%0a%3c A bell sounds between the explosions, gongs, and metal clappers warning everyone\\---Gas---Gas-----Gaas. %0a\ No newline at end of file%0a
+host:1194940978=134.173.88.69

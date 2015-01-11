@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11
+author=jughead
+csum=
+ctime=1194772637
+host=134.173.89.79
+name=Main.Always
+rev=2
+targets=
+text=
+time=1196656311
+author:1196656311=jughead
+diff:1196656311:1194772637:=0a1%0a> http://www.youtube.com/watch?v=VUoEil40qZA%0a\ No newline at end of file%0a
+host:1196656311=134.173.89.79
+author:1194772637=stumpy
+diff:1194772637:1194772637:=1d0%0a%3c http://www.youtube.com/watch?v=VUoEil40qZA%0a\ No newline at end of file%0a
+host:1194772637=134.173.93.161

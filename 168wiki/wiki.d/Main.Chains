@@ -1,0 +1,22 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=Timber of Fennario
+csum=
+ctime=1191303540
+host=134.173.94.14
+name=Main.Chains
+rev=3
+targets=
+text=
+time=1198036740
+author:1198036740=Timber of Fennario
+diff:1198036740:1191304661:=0a1,12%0a> !!'-Lake Chains of the "[[Ojibwe Names|Quetico]]"-'\\%0a> %0a> %25left%25 '''[[Man]]'''\\%0a> %0a> %0a> %25center%25 '''[[Poets]]'''\\%0a> %0a> %0a> %25right%25 '''[[Falls]]'''\\\%0a> %0a> %0a> '-"[[Kahshahpiwi]]"-'%0a
+host:1198036740=134.173.94.14
+author:1191304661=TimberOfFennario
+csum:1191304661=title link to ojibwe names and quote marks
+diff:1191304661:1191303540:=1,2c1,2%0a%3c !!'-Lake Chains of the "[[Ojibwe Names|Quetico]]"-'\\%0a%3c %0a---%0a> !!'-Lake Chains of the Quetico-'\\%0a> %0a
+host:1191304661=134.173.93.85
+author:1191303540=TimberOfFennario
+csum:1191303540=chain names and links
+diff:1191303540:1191303540:=1,12d0%0a%3c !!'-Lake Chains of the Quetico-'\\%0a%3c %0a%3c %25left%25 '''[[Man]]'''\\%0a%3c %0a%3c %0a%3c %25center%25 '''[[Poets]]'''\\%0a%3c %0a%3c %0a%3c %25right%25 '''[[Falls]]'''\\\%0a%3c %0a%3c %0a%3c '-"[[Kahshahpiwi]]"-'%0a
+host:1191303540=134.173.93.85

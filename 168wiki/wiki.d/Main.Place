@@ -1,0 +1,20 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11
+author=campagnolo
+csum=
+ctime=1196843463
+host=134.173.88.69
+name=Main.Place
+rev=3
+targets=
+text=\\%0a\\%0a\\%0a\\%0a%0a%0a%25center%25An' have rabbits. Go on, George! Tell about what we're gonna\\%0ahave in the garden and about the rabbits in the cages and about\\%0athe rain in the winter and the stove, and how thick the cream is\\%0aon the milk like you can hardly cut it. Tell about that,
+time=1196843542
+author:1196843542=campagnolo
+diff:1196843542:1196843507:=1,6d0%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c \\%0a%3c %0a%3c %0a
+host:1196843542=134.173.88.69
+author:1196843507=campagnolo
+diff:1196843507:1196843463:=1c1%0a%3c %25center%25An' have rabbits. Go on, George! Tell about what we're gonna\\%0a---%0a> An' have rabbits. Go on, George! Tell about what we're gonna\\%0a
+host:1196843507=134.173.88.69
+author:1196843463=campagnolo
+diff:1196843463:1196843463:=1,4d0%0a%3c An' have rabbits. Go on, George! Tell about what we're gonna\\%0a%3c have in the garden and about the rabbits in the cages and about\\%0a%3c the rain in the winter and the stove, and how thick the cream is\\%0a%3c on the milk like you can hardly cut it. Tell about that,%0a\ No newline at end of file%0a
+host:1196843463=134.173.88.69

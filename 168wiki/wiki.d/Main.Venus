@@ -1,0 +1,26 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+author=gnugnu
+csum=
+ctime=1196846687
+host=134.173.94.220
+name=Main.Venus
+rev=5
+targets=Main.ManAndWoman,Main.Feel
+text=The beautiful marble woman coughed, and drew the dark sables still closer about her shoulders.\\%0a\\%0a"Much obliged for the classical lesson," I replied, "but you cannot deny, that [[man and woman]] are\\%0amortal enemies, in your serene sunlit world as well as in our foggy one. In love there is union into\\%0aa single being for a short time only, capable of only one thought, one sensation, one will, in\\%0aorder to be then further disunited. And you know this better than I; whichever of the two fails to\\%0asubjugate will soon %25red%25[[feel]]%25%25 the feet of the other on his neck—"\\%0a\\%0a"And as a rule the man that of the woman," cried Madame Venus with proud mockery, "which you know\\%0abetter than I."\\%0a\\%0a"Of course, and that is why I don't have any illusions."\\%0a\\%0a"You mean you are now my slave without illusions, and for that reason you shall feel the weight of\\%0amy foot without mercy."\\%0a\\%0a"Madame!"\\%0a\\%0a"Don't you know me yet? Yes, I am cruel—since you take so much delight in that word-and am I not\\%0aentitled to be so? Man is the one who desires, woman the one who is desired. This is woman's entire\\%0abut decisive advantage. Through his passion nature has given man into woman's hands, and the woman\\%0awho does not know how to make him her subject, her slave, her toy, and how to betray him with a\\%0asmile in the end is not wise."\\%0a\\%0a~Leopold von Sacher-Masoch\\%0aTranslated by Fernanda Savage
+time=1197421945
+author:1197421945=gnugnu
+diff:1197421945:1196846832:=3c3%0a%3c "Much obliged for the classical lesson," I replied, "but you cannot deny, that [[man and woman]] are\\%0a---%0a> "Much obliged for the classical lesson," I replied, "but you cannot deny, that man and woman are\\%0a
+host:1197421945=134.173.94.220
+author:1196846832=campagnolo
+diff:1196846832:1196846734:=7c7%0a%3c subjugate will soon %25red%25[[feel]]%25%25 the feet of the other on his neck—"\\%0a---%0a> subjugate will soon feel the feet of the other on his neck—"\\%0a
+host:1196846832=134.173.88.69
+author:1196846734=campagnolo
+diff:1196846734:1196846721:=25c25%0a%3c ~Leopold von Sacher-Masoch\\%0a---%0a> Leopold von Sacher-Masoch\\%0a
+host:1196846734=134.173.88.69
+author:1196846721=campagnolo
+diff:1196846721:1196846687:=23,26c23%0a%3c smile in the end is not wise."\\%0a%3c \\%0a%3c Leopold von Sacher-Masoch\\%0a%3c Translated by Fernanda Savage%0a\ No newline at end of file%0a---%0a> smile in the end is not wise."%0a\ No newline at end of file%0a
+host:1196846721=134.173.88.69
+author:1196846687=campagnolo
+diff:1196846687:1196846687:=1,23d0%0a%3c The beautiful marble woman coughed, and drew the dark sables still closer about her shoulders.\\%0a%3c \\%0a%3c "Much obliged for the classical lesson," I replied, "but you cannot deny, that man and woman are\\%0a%3c mortal enemies, in your serene sunlit world as well as in our foggy one. In love there is union into\\%0a%3c a single being for a short time only, capable of only one thought, one sensation, one will, in\\%0a%3c order to be then further disunited. And you know this better than I; whichever of the two fails to\\%0a%3c subjugate will soon feel the feet of the other on his neck—"\\%0a%3c \\%0a%3c "And as a rule the man that of the woman," cried Madame Venus with proud mockery, "which you know\\%0a%3c better than I."\\%0a%3c \\%0a%3c "Of course, and that is why I don't have any illusions."\\%0a%3c \\%0a%3c "You mean you are now my slave without illusions, and for that reason you shall feel the weight of\\%0a%3c my foot without mercy."\\%0a%3c \\%0a%3c "Madame!"\\%0a%3c \\%0a%3c "Don't you know me yet? Yes, I am cruel—since you take so much delight in that word-and am I not\\%0a%3c entitled to be so? Man is the one who desires, woman the one who is desired. This is woman's entire\\%0a%3c but decisive advantage. Through his passion nature has given man into woman's hands, and the woman\\%0a%3c who does not know how to make him her subject, her slave, her toy, and how to betray him with a\\%0a%3c smile in the end is not wise."%0a\ No newline at end of file%0a
+host:1196846687=134.173.88.69

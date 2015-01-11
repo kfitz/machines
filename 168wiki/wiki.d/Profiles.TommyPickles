@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=stumpy
+csum=
+ctime=1194844586
+host=134.173.192.122
+name=Profiles.TommyPickles
+rev=2
+targets=
+text=Age: 1\\%0aCatchphrase: "A baby's gotta do what a baby's gotta do."\\%0aBest known for: Inventing new uses for the screwdriver
+time=1194844597
+author:1194844597=stumpy
+diff:1194844597:1194844586:=1,2c1,2%0a%3c Age: 1\\%0a%3c Catchphrase: "A baby's gotta do what a baby's gotta do."\\%0a---%0a> Age: 1//%0a> Catchphrase: "A baby's gotta do what a baby's gotta do."//%0a
+host:1194844597=134.173.192.122
+author:1194844586=stumpy
+diff:1194844586:1194844586:=1,3d0%0a%3c Age: 1//%0a%3c Catchphrase: "A baby's gotta do what a baby's gotta do."//%0a%3c Best known for: Inventing new uses for the screwdriver%0a\ No newline at end of file%0a
+host:1194844586=134.173.192.122

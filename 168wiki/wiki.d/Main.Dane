@@ -1,0 +1,20 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/523.12 (KHTML, like Gecko) Version/3.0.4 Safari/523.12
+author=stumpy
+csum=
+ctime=1196413053
+host=72.72.88.206
+name=Main.Dane
+rev=3
+targets=Main.Go,Main.Relationshit,Main.Love,Main.ExceptForYou,Main.DaneCook
+text=!!L-O-V-E%0a%0aLet's talk a little bit about L-O-V-E. %0aSometimes, you meet somebody and you have what is known as a %0a"relationship" and things can go great and if it goes great, %0athen you have a great relationship. %0aSometimes, it doesnt [[go]] so great, and I like to call that a "[[relationshit]]". %0aWhen you're not in love, you don't have love, %0aeverybody you know falls in [[love]]. %0aOn like, the same day. %0aEven Karen the Douchebag falls in love. %0aEven retarded people in your neighborhood are getting %0amarried on their front lawn. %0aAs you drive by - "What? The 'Tards just got married on their lawn. %0aThat's great. I have nobody, and the 'Tards just committed to each %0aother for a lifetime of tardiness." %0aOr is that, they're late for everything. I don't know, could be. %0aI came up with the perfect analogy, right here. %0aThis is what it feels like when you don't have love, %0ait's like there's a party going on and everyone was invited, %0a[[except for you]]. And you just happen to be walking by that house, %0ain the rain ... %0a"Ohh. I wasn't invited to this party." %0aThat's what that feels like. But then again, once you're in love, %0ayou know what that's like? %0aThat's like being inside the party going, %0a"Where's my jacket? I wanna get out of here. Where's my jacket? %0aI've been at this party for six years and I wanna see other parties. %0aWhere's my jacket? %0a%0a-%25green%25[[{+Dane Cook+}]]
+time=1198138648
+author:1198138648=stumpy
+diff:1198138648:1196845683:=21c21%0a%3c [[except for you]]. And you just happen to be walking by that house, %0a---%0a> except for you. And you just happen to be walking by that house, %0a
+host:1198138648=72.72.88.206
+author:1196845683=campagnolo
+diff:1196845683:1196413053:=9c9%0a%3c everybody you know falls in [[love]]. %0a---%0a> everybody you know falls in love. %0a
+host:1196845683=134.173.88.69
+author:1196413053=gnugnu
+diff:1196413053:1196413053:=1,31d0%0a%3c !!L-O-V-E%0a%3c %0a%3c Let's talk a little bit about L-O-V-E. %0a%3c Sometimes, you meet somebody and you have what is known as a %0a%3c "relationship" and things can go great and if it goes great, %0a%3c then you have a great relationship. %0a%3c Sometimes, it doesnt [[go]] so great, and I like to call that a "[[relationshit]]". %0a%3c When you're not in love, you don't have love, %0a%3c everybody you know falls in love. %0a%3c On like, the same day. %0a%3c Even Karen the Douchebag falls in love. %0a%3c Even retarded people in your neighborhood are getting %0a%3c married on their front lawn. %0a%3c As you drive by - "What? The 'Tards just got married on their lawn. %0a%3c That's great. I have nobody, and the 'Tards just committed to each %0a%3c other for a lifetime of tardiness." %0a%3c Or is that, they're late for everything. I don't know, could be. %0a%3c I came up with the perfect analogy, right here. %0a%3c This is what it feels like when you don't have love, %0a%3c it's like there's a party going on and everyone was invited, %0a%3c except for you. And you just happen to be walking by that house, %0a%3c in the rain ... %0a%3c "Ohh. I wasn't invited to this party." %0a%3c That's what that feels like. But then again, once you're in love, %0a%3c you know what that's like? %0a%3c That's like being inside the party going, %0a%3c "Where's my jacket? I wanna get out of here. Where's my jacket? %0a%3c I've been at this party for six years and I wanna see other parties. %0a%3c Where's my jacket? %0a%3c %0a%3c -%25green%25[[{+Dane Cook+}]]%0a\ No newline at end of file%0a
+host:1196413053=134.173.94.220

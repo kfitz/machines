@@ -1,0 +1,23 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11
+author=jughead
+csum=
+ctime=1198133223
+host=68.99.255.4
+name=Main.Takes
+rev=4
+targets=
+text=[[http://www.hrw.org/iff/2003/traveling/wartakes-index.html | War Takes]]
+time=1198224029
+author:1198224029=jughead
+diff:1198224029:1198133365:=1d0%0a%3c [[http://www.hrw.org/iff/2003/traveling/wartakes-index.html | War Takes]]%0a\ No newline at end of file%0a
+host:1198224029=68.99.255.4
+author:1198133365=stumpy
+diff:1198133365:1198133262:=0a1%0a> /Users/beccarussell-einhorn/Desktop/neverbeen+kissed.jpg%0a\ No newline at end of file%0a
+host:1198133365=72.72.88.206
+author:1198133262=stumpy
+diff:1198133262:1198133223:=1c1%0a%3c /Users/beccarussell-einhorn/Desktop/neverbeen+kissed.jpg%0a\ No newline at end of file%0a---%0a> http://bp2.blogger.com/_a7jkcMVp5Vg/R2Wkx8hM3EI/AAAAAAAACwI/SQFcKhOtQy0/s1600-h/neverbeen+kissed.jpg%0a\ No newline at end of file%0a
+host:1198133262=72.72.88.206
+author:1198133223=stumpy
+diff:1198133223:1198133223:=1d0%0a%3c http://bp2.blogger.com/_a7jkcMVp5Vg/R2Wkx8hM3EI/AAAAAAAACwI/SQFcKhOtQy0/s1600-h/neverbeen+kissed.jpg%0a\ No newline at end of file%0a
+host:1198133223=72.72.88.206

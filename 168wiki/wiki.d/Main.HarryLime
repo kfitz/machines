@@ -1,0 +1,20 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=Timber of Fennario
+csum=
+ctime=1198131183
+host=134.173.94.14
+name=Main.HarryLime
+rev=3
+targets=Main.Intended
+text=%25center%25http://www.filmmonthly.com/Noir/Articles/Thirdman/TheThirdMan.jpg%0a%0a"Victims? Don't be melodramatic. Tell me. Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money, or would you calculate how many dots you could afford to spare? Free of income tax, old man. Free of income tax - the only way you can save money nowadays."%0a%0a%25center%25http://www.celestialmonochord.org/log/images/thrid_man_ferris_wheel.jpg%0a%0a"In Italy for thirty years under the Borgias they had warfare, [[intended|terror]], murder, bloodshed - but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland, they had brotherly love, five hundred years of democracy and peace, and what did that produce? The cuckoo clock."%0a%0aYou can take a tour in Vienna and go down into the sewers where Harry Lime spent his last moments.  You can stand in the same doorway as he did and you can walk around the same kiosk where he disappered into the underground.
+time=1198131516
+author:1198131516=Timber of Fennario
+diff:1198131516:1198131233:=7,8c7,8%0a%3c "In Italy for thirty years under the Borgias they had warfare, [[intended|terror]], murder, bloodshed - but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland, they had brotherly love, five hundred years of democracy and peace, and what did that produce? The cuckoo clock."%0a%3c %0a---%0a> "In Italy for thirty years under the Borgias they had warfare, [[War of the Worlds|terror]], murder, bloodshed - but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland, they had brotherly love, five hundred years of democracy and peace, and what did that produce? The cuckoo clock."%0a> %0a
+host:1198131516=134.173.94.14
+author:1198131233=Timber of Fennario
+diff:1198131233:1198131183:=7,8c7,8%0a%3c "In Italy for thirty years under the Borgias they had warfare, [[War of the Worlds|terror]], murder, bloodshed - but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland, they had brotherly love, five hundred years of democracy and peace, and what did that produce? The cuckoo clock."%0a%3c %0a---%0a> ""In Italy for thirty years under the Borgias they had warfare, terror, murder, bloodshed - but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland, they had brotherly love, five hundred years of democracy and peace, and what did that produce? The cuckoo clock."%0a> %0a
+host:1198131233=134.173.94.14
+author:1198131183=Timber of Fennario
+diff:1198131183:1198131183:=1,9d0%0a%3c %25center%25http://www.filmmonthly.com/Noir/Articles/Thirdman/TheThirdMan.jpg%0a%3c %0a%3c "Victims? Don't be melodramatic. Tell me. Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money, or would you calculate how many dots you could afford to spare? Free of income tax, old man. Free of income tax - the only way you can save money nowadays."%0a%3c %0a%3c %25center%25http://www.celestialmonochord.org/log/images/thrid_man_ferris_wheel.jpg%0a%3c %0a%3c ""In Italy for thirty years under the Borgias they had warfare, terror, murder, bloodshed - but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland, they had brotherly love, five hundred years of democracy and peace, and what did that produce? The cuckoo clock."%0a%3c %0a%3c You can take a tour in Vienna and go down into the sewers where Harry Lime spent his last moments.  You can stand in the same doorway as he did and you can walk around the same kiosk where he disappered into the underground.%0a\ No newline at end of file%0a
+host:1198131183=134.173.94.14

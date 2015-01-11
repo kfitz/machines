@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/523.12 (KHTML, like Gecko) Version/3.0.4 Safari/523.12
+author=stumpy
+csum=
+ctime=1198134713
+host=72.72.88.206
+name=Main.DoIDare
+rev=1
+targets=
+text=%0a!! Do I Dare?%0a%0aDo I dare turn around? Do I dare chase after her?  Do I let him get in his car and go? Do I say the three words I really mean, instead of the twenty-seven that I used to sound casual? Do I tell her what I really think, or do I smile and agree to pick up the fax?  Do I thank her for years of love? Do I key that son-of-a-bitch's car? Do I watch her get beat up? Do I pretend it never happened?%0a%0aDo I dare? Do I? Do I?
+time=1198134713
+author:1198134713=stumpy
+diff:1198134713:1198134713:=1,6d0%0a%3c %0a%3c !! Do I Dare?%0a%3c %0a%3c Do I dare turn around? Do I dare chase after her?  Do I let him get in his car and go? Do I say the three words I really mean, instead of the twenty-seven that I used to sound casual? Do I tell her what I really think, or do I smile and agree to pick up the fax?  Do I thank her for years of love? Do I key that son-of-a-bitch's car? Do I watch her get beat up? Do I pretend it never happened?%0a%3c %0a%3c Do I dare? Do I? Do I?%0a\ No newline at end of file%0a
+host:1198134713=72.72.88.206

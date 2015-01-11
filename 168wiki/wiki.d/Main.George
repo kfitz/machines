@@ -1,0 +1,26 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11
+author=campagnolo
+csum=
+ctime=1196842034
+host=134.173.88.69
+name=Main.George
+rev=5
+targets=Main.War,Main.Freud,Main.Place
+text=   [+Lennie said, "I thought you was mad at me, George."\\%0a   "no," said George. "No, Lennie. I ain't mad. I never been\\%0amad, an' I ain't now. That's a thing I want ya to know."\\%0a   The voices came close now. George raised the gun and listened\\%0ato the voices.\\%0a   Lennie begged, "Le's do it now. Le's get the %25red%25[[place]]%25%25 now."\\%0a   "Sure, right now. I gotta. We gotta."\\%0a   And George raised the %25red%25[[war | gun]]%25%25 and steadied it and he brought\\%0athe muzzle of it close to the back of Lennie's head. The hand\\%0ashook violently, but his face set and his steadied. %25red%25[[Freud | He\\%0apulled the trigger]]%25%25 The crash of the shot rolled up the hills and \\%0arolled down again. Lennie jarred, and then settled slowly forward \\%0ato the sand, and he lay without quivering.+]%0a
+time=1196845330
+author:1196845330=campagnolo
+diff:1196845330:1196845129:=8c8%0a%3c    And George raised the %25red%25[[war | gun]]%25%25 and steadied it and he brought\\%0a---%0a>    And George raised the gun and steadied it and he brought\\%0a10,11c10,11%0a%3c shook violently, but his face set and his steadied. %25red%25[[Freud | He\\%0a%3c pulled the trigger]]%25%25 The crash of the shot rolled up the hills and \\%0a---%0a> shook violently, but his face set and his steadied. He\\%0a> pulled the trigger The crash of the shot rolled up the hills and \\%0a
+host:1196845330=134.173.88.69
+author:1196845129=campagnolo
+diff:1196845129:1196843257:=6c6%0a%3c    Lennie begged, "Le's do it now. Le's get the %25red%25[[place]]%25%25 now."\\%0a---%0a>    Lennie begged, "Le's do it now. Le's get the %25green%25[[place]]%25%25now."\\%0a
+host:1196845129=134.173.88.69
+author:1196843257=campagnolo
+diff:1196843257:1196842463:=1,13c1,12%0a%3c    [+Lennie said, "I thought you was mad at me, George."\\%0a%3c    "no," said George. "No, Lennie. I ain't mad. I never been\\%0a%3c mad, an' I ain't now. That's a thing I want ya to know."\\%0a%3c    The voices came close now. George raised the gun and listened\\%0a%3c to the voices.\\%0a%3c    Lennie begged, "Le's do it now. Le's get the %25green%25[[place]]%25%25now."\\%0a%3c    "Sure, right now. I gotta. We gotta."\\%0a%3c    And George raised the gun and steadied it and he brought\\%0a%3c the muzzle of it close to the back of Lennie's head. The hand\\%0a%3c shook violently, but his face set and his steadied. He\\%0a%3c pulled the trigger The crash of the shot rolled up the hills and \\%0a%3c rolled down again. Lennie jarred, and then settled slowly forward \\%0a%3c to the sand, and he lay without quivering.+]%0a---%0a>   [+[@Lennie said, "I thought you was mad at me, George."%0a>   "no," said George. "No, Lennie. I ain't mad. I never been%0a> mad, an' I ain't now. That's a thing I want ya to know."%0a>   The voices came close now. George raised the gun and listened to the voices.%0a>   Lennie begged, "Le's do it now. Le's get the %25green%25[[place]] now."%25%25%0a>   "Sure, right now. I gotta. We gotta."%0a>   And George raised the gun and steadied it and he brought%0a> the muzzle of it close to the back of Lennie's head. The hand %0a> shook violently, but his face set and his steadied. He%0a> pulled the trigger The crash of the shot rolled up the hills and%0a> rolled down again. Lennie jarred, and then settled slowly forward%0a> to the sand, and he lay without quivering.@]+] %0a
+host:1196843257=134.173.88.69
+author:1196842463=campagnolo
+diff:1196842463:1196842034:=1c1%0a%3c   [+[@Lennie said, "I thought you was mad at me, George."%0a---%0a>   [@Lennie said, "I thought you was mad at me, George."%0a5c5%0a%3c   Lennie begged, "Le's do it now. Le's get the %25green%25[[place]] now."%25%25%0a---%0a>   Lennie begged, "Le's do it now. Le's get the place now."%0a12c12%0a%3c to the sand, and he lay without quivering.@]+] %0a---%0a> to the sand, and he lay without quivering.@] %0a
+host:1196842463=134.173.88.69
+author:1196842034=campagnolo
+diff:1196842034:1196842034:=1,12d0%0a%3c   [@Lennie said, "I thought you was mad at me, George."%0a%3c   "no," said George. "No, Lennie. I ain't mad. I never been%0a%3c mad, an' I ain't now. That's a thing I want ya to know."%0a%3c   The voices came close now. George raised the gun and listened to the voices.%0a%3c   Lennie begged, "Le's do it now. Le's get the place now."%0a%3c   "Sure, right now. I gotta. We gotta."%0a%3c   And George raised the gun and steadied it and he brought%0a%3c the muzzle of it close to the back of Lennie's head. The hand %0a%3c shook violently, but his face set and his steadied. He%0a%3c pulled the trigger The crash of the shot rolled up the hills and%0a%3c rolled down again. Lennie jarred, and then settled slowly forward%0a%3c to the sand, and he lay without quivering.@] %0a
+host:1196842034=134.173.88.69

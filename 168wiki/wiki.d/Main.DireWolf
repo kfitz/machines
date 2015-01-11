@@ -1,0 +1,18 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=Timber of Fennario
+csum=
+ctime=1191296511
+host=134.173.94.14
+name=Main.DireWolf
+rev=2
+targets=
+text=
+time=1198036847
+author:1198036847=Timber of Fennario
+diff:1198036847:1191296511:=0a1,2%0a> %25center%25http://www.timbers-of-fennario.com/moonwolf.gif///%0a> %25center%25Dont murder me, I beg of you, dont murder me. Please, don't murder me.%0a\ No newline at end of file%0a
+host:1198036847=134.173.94.14
+author:1191296511=TimberOfFennario
+csum:1191296511=dire wolf content input, no links yet
+diff:1191296511:1191296511:=1,2d0%0a%3c %25center%25http://www.timbers-of-fennario.com/moonwolf.gif///%0a%3c %25center%25Dont murder me, I beg of you, dont murder me. Please, don't murder me.%0a\ No newline at end of file%0a
+host:1191296511=134.173.93.85

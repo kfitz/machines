@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11
+author=jughead
+csum=
+ctime=1196630002
+host=134.173.89.79
+name=Main.Obscenity
+rev=1
+targets=
+text=\\%0aListen to Rat Kiley.  Cooze, he says.  He does not say bitch.  He certainly does not say woman, or girl.  he says cooze.  Then he spits and stares.  He's nineteen years old--it's too much for him--so he looks at you with those big sad gentle killer eyes and says cooze, because his friend is dead, and because it's so incredibly sad and true: she never wrote back.\\%0a
+time=1196630002
+author:1196630002=jughead
+diff:1196630002:1196630002:=1,2d0%0a%3c \\%0a%3c Listen to Rat Kiley.  Cooze, he says.  He does not say bitch.  He certainly does not say woman, or girl.  he says cooze.  Then he spits and stares.  He's nineteen years old--it's too much for him--so he looks at you with those big sad gentle killer eyes and says cooze, because his friend is dead, and because it's so incredibly sad and true: she never wrote back.\\%0a
+host:1196630002=134.173.89.79

@@ -1,0 +1,19 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=TimberOfFennario
+csum=geology link
+ctime=1191303828
+host=134.173.93.85
+name=Main.Man
+rev=2
+targets=Main.Geology,Main.ThisMan,Main.ThatMan,Main.OtherMan,Main.NoMan,Main.Pre-Cambrian
+text=The Man Chain has an isolated and highly particular [[geology]] so that the day spent paddling down from the Northeast to the Southwest—from [[This Man]] through [[That Man]] to [[Other Man]]— is a day of emerald green water and old growth birch and white-tail deer and these wonders do not occur elsewhere in Quetico-Superior country.  [[No Man]], small and alone as he is, must also feed from this odd Man intrusion in the [[pre-Cambrian]] bedrock.  No way in and no way out and No Man’s Lake must be of the purest emerald and eldest hart and would take a morning’s bushwhack there and back.
+time=1191399956
+author:1191399956=TimberOfFennario
+csum:1191399956=geology link
+diff:1191399956:1191303828:=1c1%0a%3c The Man Chain has an isolated and highly particular [[geology]] so that the day spent paddling down from the Northeast to the Southwest—from [[This Man]] through [[That Man]] to [[Other Man]]— is a day of emerald green water and old growth birch and white-tail deer and these wonders do not occur elsewhere in Quetico-Superior country.  [[No Man]], small and alone as he is, must also feed from this odd Man intrusion in the [[pre-Cambrian]] bedrock.  No way in and no way out and No Man’s Lake must be of the purest emerald and eldest hart and would take a morning’s bushwhack there and back.%0a\ No newline at end of file%0a---%0a> The Man Chain has an isolated and highly particular geology so that the day spent paddling down from the Northeast to the Southwest—from [[This Man]] through [[That Man]] to [[Other Man]]— is a day of emerald green water and old growth birch and white-tail deer and these wonders do not occur elsewhere in Quetico-Superior country.  [[No Man]], small and alone as he is, must also feed from this odd Man intrusion in the [[pre-Cambrian]] bedrock.  No way in and no way out and No Man’s Lake must be of the purest emerald and eldest hart and would take a morning’s bushwhack there and back.%0a\ No newline at end of file%0a
+host:1191399956=134.173.93.85
+author:1191303828=TimberOfFennario
+csum:1191303828=man chain content and some links
+diff:1191303828:1191303828:=1d0%0a%3c The Man Chain has an isolated and highly particular geology so that the day spent paddling down from the Northeast to the Southwest—from [[This Man]] through [[That Man]] to [[Other Man]]— is a day of emerald green water and old growth birch and white-tail deer and these wonders do not occur elsewhere in Quetico-Superior country.  [[No Man]], small and alone as he is, must also feed from this odd Man intrusion in the [[pre-Cambrian]] bedrock.  No way in and no way out and No Man’s Lake must be of the purest emerald and eldest hart and would take a morning’s bushwhack there and back.       %0a\ No newline at end of file%0a
+host:1191303828=134.173.93.85

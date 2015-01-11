@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.9) Gecko/20071025 Firefox/2.0.0.9
+author=campagnolo
+csum=
+ctime=1195009692
+host=134.173.88.69
+name=Main.Ejaculating
+rev=2
+targets=Main.Eggs
+text=Troops Thrown against the enemy as a grindstone against %25red%25[[eggs]]%25%25 is an example\\%0aof a solid acting upon a void. ~Sun Tzu
+time=1195024791
+author:1195024791=campagnolo
+diff:1195024791:1195009692:=1c1%0a%3c Troops Thrown against the enemy as a grindstone against %25red%25[[eggs]]%25%25 is an example\\%0a---%0a> Troops Thrown against the enemy as a grindstone against eggs is an example\\%0a
+host:1195024791=134.173.88.69
+author:1195009692=campagnolo
+diff:1195009692:1195009692:=1,2d0%0a%3c Troops Thrown against the enemy as a grindstone against eggs is an example\\%0a%3c of a solid acting upon a void. ~Sun Tzu%0a\ No newline at end of file%0a
+host:1195009692=134.173.88.69

@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head profile='http://gmpg.org/xfn/11'>
+	<title>$WikiTitle :: {$Group} / {$Title} $ActionTitle</title>
+	<meta http-equiv='Content-Style-Type' content='text/css' />
+	<link rel='stylesheet' title='barthelmod' href='$SkinDirUrl/barthelmod.css' type='text/css' media='all' />
+	<link rel='start' href='{$ScriptUrl}' title='$WikiTitle' />
+	<style type='text/css' media='all'>
+		<!--function:barthelmod_bodyfontsize-->
+		<!--function:barthelmod_bodyfontfamily-->
+		<!--function:barthelmod_headerfontfamily-->
+		<!--function:barthelmod_postentryalignment-->
+		<!--function:barthelmod_wrapperwidth-->
+	</style>
+	<!--HTMLHeader-->
+</head>
+<body>
+<div id='wrapper'>
+<!--PageHeaderFmt-->
+	<div id='header' onclick='location.href="{$ScriptUrl}";' style='cursor:pointer;'>
+		<h1 id='title'><a href='http://machines.pomona.edu/168-2007/'>writing machines</a></h1>
+
+		<div id="menu">
+		<ul class="links-menu">
+			<li><a href='http://machines.pomona.edu/'>kathleen fitzpatrick</a></li>
+			<li><a href='http://www.pomona.edu/'>pomona college</a></li>
+		</ul>
+		</div>
+
+	</div>
+<!--/PageHeaderFmt-->
+
+<div id='container'>
+	<div id='content' class='widecolumn'>
+	<h3 id="pagename"><a href='{$ScriptUrl}' title='$WikiTitle'>Wiki Home</a> &gt; {$Title}</h3>
+	<!--PageText-->
+	</div>
+</div>
+
+<!--PageRightFmt-->
+<div id='sidebar' $barthelmod_sidebar_visible>
+	<ul>
+	
+		<!--function:barthelmod_sidebartext-->
+		<li>
+			<h2>Actions</h2>
+			<!--wiki:Site.PageActions-->
+		</li>
+		
+		<li>
+			<h2>Menu</h2>
+			<!--wiki:Site.SideBar-->
+		</li>
+		
+		<li id='search'>
+			<h2><label for='s'>Search Wiki</label></h2>
+			<form id='searchform' action='{$ScriptUrl}'>
+			<div>
+				<input type='hidden' name='n' value='{$FullName}' />
+    			<input type='hidden' name='action' value='search' />
+				<input id='s' name='q' type='text' value='' tabindex='1' size='10' />
+				<br />
+				<input id='searchsubmit' name='searchsubmit' type='submit' value='Find' tabindex='2' />
+			</div>
+			</form> 
+		</li>
+		
+	</ul>
+</div>
+<!--/PageRightFmt-->
+
+
+	<div id='footer'>
+		<p>
+			powered by <a href='http://www.pmwiki.com/' title='PmWiki'>PmWiki</a>
+			|
+			<a href='http://www.plaintxt.org/themes/barthelmod/' title='barthelmod for WordPress' rel='follow'>barthelme</a> theme by <a href='http://scottwallick.com/' title='scottwallick.com' rel='follow'>Scott</a> and ported by <a href='http://cscheng.info/blog'>Chi Shang</a> and modded by <a href='http://jason.br.com/'>Jason Brown</a>
+		</p>
+	</div>
+
+</div>
+
+
+
+<!-- The 'barthelme' theme copyright (c) 2006 Scott Allan Wallick - http://www.plaintxt.org/themes/ -->
+</body>
+</html>

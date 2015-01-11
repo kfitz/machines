@@ -1,0 +1,18 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=TimberOfFennario
+csum=man link
+ctime=1191476905
+host=134.173.94.178
+name=Main.ThrowingGame
+rev=2
+targets=Main.Man
+text=%25center%25You avoid me, Chloe, like a fawn\\%0aseeking on untrodden mountains\\%0aher timid mother, in vain fear\\%0aof the winds and the forest.\\\%0a%0a%25center%25For if the arrival of spring shudders\\%0awith light leaves or if green\\%0alizards move apart the brush,\\%0ain her heart and her knees, she trembles.\\\%0a%0a%25center%25But I, no wild tiger or Moroccan lion,\\%0ado not pursue you to crush you:\\%0aat last, leave off your mother.\\%0aYou are ready to follow a [[man]].\\\%0a%0a%25center%25''Carmina'' I.23\\%0aQ. Horatius Flaccus
+time=1191560776
+author:1191560776=TimberOfFennario
+csum:1191560776=man link
+diff:1191560776:1191476905:=14,15c14,15%0a%3c You are ready to follow a [[man]].\\\%0a%3c %0a---%0a> You are ready to follow a man.\\\%0a> %0a
+host:1191560776=134.173.94.178
+author:1191476905=gnugnu
+diff:1191476905:1191476905:=1,17d0%0a%3c %25center%25You avoid me, Chloe, like a fawn\\%0a%3c seeking on untrodden mountains\\%0a%3c her timid mother, in vain fear\\%0a%3c of the winds and the forest.\\\%0a%3c %0a%3c %25center%25For if the arrival of spring shudders\\%0a%3c with light leaves or if green\\%0a%3c lizards move apart the brush,\\%0a%3c in her heart and her knees, she trembles.\\\%0a%3c %0a%3c %25center%25But I, no wild tiger or Moroccan lion,\\%0a%3c do not pursue you to crush you:\\%0a%3c at last, leave off your mother.\\%0a%3c You are ready to follow a man.\\\%0a%3c %0a%3c %25center%25''Carmina'' I.23\\%0a%3c Q. Horatius Flaccus%0a\ No newline at end of file%0a
+host:1191476905=134.173.133.158

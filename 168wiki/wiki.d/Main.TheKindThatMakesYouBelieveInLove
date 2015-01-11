@@ -1,0 +1,26 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=stumpy
+csum=
+ctime=1194772126
+host=134.173.93.161
+name=Main.TheKindThatMakesYouBelieveInLove
+rev=5
+targets=
+text=
+time=1194772653
+author:1194772653=stumpy
+diff:1194772653:1194772276:=0a1%0a> http://www.youtube.com/watch?v=VUoEil40qZA%0a\ No newline at end of file%0a
+host:1194772653=134.173.93.161
+author:1194772276=stumpy
+diff:1194772276:1194772256:=1c1,62%0a%3c http://www.youtube.com/watch?v=VUoEil40qZA%0a\ No newline at end of file%0a---%0a> http://www.youtube.com/watch?v=VUoEil40qZA%0a> %0a> %0a> If I %0a> Should stay %0a> I would only be in your way %0a> So I'll go %0a> But I know %0a> I'll think of you every step of %0a> the way %0a> %0a> And I... %0a> Will always %0a> Love you, oohh %0a> Will always %0a> Love you %0a> You %0a> My darling you %0a> Mmm-mm %0a> %0a> Bittersweet %0a> Memories %0a> That is all I'm taking with me %0a> So good-bye %0a> Please don't cry %0a> We both know I'm not what you %0a> You need %0a> %0a> And I... %0a> Will always love you %0a> I... %0a> Will always love you %0a> You, ooh %0a> %0a> [Instrumental / Sax solo]%0a> %0a> I hope %0a> life treats you kind %0a> And I hope %0a> you have all you've dreamed of %0a> And I wish you joy %0a> and happiness %0a> But above all this %0a> I wish you love %0a> %0a> And I... %0a> Will always love you %0a> I... %0a> Will always love you %0a> [Repeat]%0a> %0a> I, I will always love %0a> You.... %0a> You %0a> Darling I love you %0a> I'll always %0a> I'll always %0a> Love %0a> You.. %0a> Oooh %0a> Ooohhh%0a> %0a
+host:1194772276=134.173.93.161
+author:1194772256=stumpy
+diff:1194772256:1194772160:=1,62c1,3%0a%3c http://www.youtube.com/watch?v=VUoEil40qZA%0a%3c %0a%3c %0a%3c If I %0a%3c Should stay %0a%3c I would only be in your way %0a%3c So I'll go %0a%3c But I know %0a%3c I'll think of you every step of %0a%3c the way %0a%3c %0a%3c And I... %0a%3c Will always %0a%3c Love you, oohh %0a%3c Will always %0a%3c Love you %0a%3c You %0a%3c My darling you %0a%3c Mmm-mm %0a%3c %0a%3c Bittersweet %0a%3c Memories %0a%3c That is all I'm taking with me %0a%3c So good-bye %0a%3c Please don't cry %0a%3c We both know I'm not what you %0a%3c You need %0a%3c %0a%3c And I... %0a%3c Will always love you %0a%3c I... %0a%3c Will always love you %0a%3c You, ooh %0a%3c %0a%3c [Instrumental / Sax solo]%0a%3c %0a%3c I hope %0a%3c life treats you kind %0a%3c And I hope %0a%3c you have all you've dreamed of %0a%3c And I wish you joy %0a%3c and happiness %0a%3c But above all this %0a%3c I wish you love %0a%3c %0a%3c And I... %0a%3c Will always love you %0a%3c I... %0a%3c Will always love you %0a%3c [Repeat]%0a%3c %0a%3c I, I will always love %0a%3c You.... %0a%3c You %0a%3c Darling I love you %0a%3c I'll always %0a%3c I'll always %0a%3c Love %0a%3c You.. %0a%3c Oooh %0a%3c Ooohhh%0a%3c %0a---%0a> %3cobject width="425" height="355">%3cparam name="movie" value="http://www.youtube.com/v/VUoEil40qZA&rel=1">%3c/param>%3cparam name="wmode" value="transparent">%3c/param>%3cembed src="http://www.youtube.com/v/VUoEil40qZA&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355">%3c/embed>%3c/object>%0a> %0a> %3cobject width="425" height="355">%3cparam name="movie" value="http://www.youtube.com/v/VUoEil40qZA&rel=1">%3c/param>%3cparam name="wmode" value="transparent">%3c/param>%3cembed src="http://www.youtube.com/v/VUoEil40qZA&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355">%3c/embed>%3c/object>%0a\ No newline at end of file%0a
+host:1194772256=134.173.93.161
+author:1194772160=stumpy
+diff:1194772160:1194772126:=1,2d0%0a%3c %3cobject width="425" height="355">%3cparam name="movie" value="http://www.youtube.com/v/VUoEil40qZA&rel=1">%3c/param>%3cparam name="wmode" value="transparent">%3c/param>%3cembed src="http://www.youtube.com/v/VUoEil40qZA&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355">%3c/embed>%3c/object>%0a%3c %0a
+host:1194772160=134.173.93.161
+author:1194772126=stumpy
+diff:1194772126:1194772126:=1d0%0a%3c %3cobject width="425" height="355">%3cparam name="movie" value="http://www.youtube.com/v/VUoEil40qZA&rel=1">%3c/param>%3cparam name="wmode" value="transparent">%3c/param>%3cembed src="http://www.youtube.com/v/VUoEil40qZA&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355">%3c/embed>%3c/object>%0a\ No newline at end of file%0a
+host:1194772126=134.173.93.161

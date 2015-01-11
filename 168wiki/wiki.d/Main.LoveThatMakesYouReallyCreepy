@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=Timber of Fennario
+csum=
+ctime=1194559065
+host=134.173.94.14
+name=Main.LoveThatMakesYouReallyCreepy
+rev=2
+targets=
+text=%25center%25http://www.psikeba.com.ar/recursos/imagenes/DeClerambault.jpg%0a%0a!!! %25center%25French psychiatrist Gaëtan Gatian de Clerambault (1872–1934)%0a%0a%0aIn one of the earliest and most celebrated cases, de Clerambault described a fifty-three-year-old Frenchwoman who believed King George V was in love with her.  She persistently pursued him from 1918 onward, paying several visits to England:%0a%0a-->She frequently waited for him outside Buckingham Palace.  She once saw a curtain move in one of the palace windows and interpreted this as a signal from the king.  She claimed that all Londoners knew of his love for her, but alleged that he had precented her from finding lodgings in London, made her miss her hotel bookings, and was responsible for the loss of her baggage containing money and portraits of him... She vividly summarized her passion for him.  " The king might hate me, but he can never forget.  I could never be indifferent to him, nor he to me... It is in vain that he hurts me... I was attracted to him from the depths of my heart..."
+time=1198135068
+author:1198135068=Timber of Fennario
+diff:1198135068:1194559065:=1,8c1,3%0a%3c %25center%25http://www.psikeba.com.ar/recursos/imagenes/DeClerambault.jpg%0a%3c %0a%3c !!! %25center%25French psychiatrist Gaëtan Gatian de Clerambault (1872–1934)%0a%3c %0a%3c %0a%3c In one of the earliest and most celebrated cases, de Clerambault described a fifty-three-year-old Frenchwoman who believed King George V was in love with her.  She persistently pursued him from 1918 onward, paying several visits to England:%0a%3c %0a%3c -->She frequently waited for him outside Buckingham Palace.  She once saw a curtain move in one of the palace windows and interpreted this as a signal from the king.  She claimed that all Londoners knew of his love for her, but alleged that he had precented her from finding lodgings in London, made her miss her hotel bookings, and was responsible for the loss of her baggage containing money and portraits of him... She vividly summarized her passion for him.  " The king might hate me, but he can never forget.  I could never be indifferent to him, nor he to me... It is in vain that he hurts me... I was attracted to him from the depths of my heart..."%0a\ No newline at end of file%0a---%0a> French psychiatrist Gaëtan Gatian de Clerambault (1872–1934)%0a> %0a> Jed Parry Content from Ian McEwan's ''Enduring Love'' to come%0a\ No newline at end of file%0a
+host:1198135068=134.173.94.14
+author:1194559065=TimberOfFennario
+diff:1194559065:1194559065:=1,3d0%0a%3c French psychiatrist Gaëtan Gatian de Clerambault (1872–1934)%0a%3c %0a%3c Jed Parry Content from Ian McEwan's ''Enduring Love'' to come%0a\ No newline at end of file%0a
+host:1194559065=134.173.94.49

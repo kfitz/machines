@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-us) AppleWebKit/523.10.3 (KHTML, like Gecko) Version/3.0.4 Safari/523.10
+author=gnugnu
+csum=
+ctime=1198174092
+host=24.215.192.216
+name=Main.OCome
+rev=2
+targets=Main.Christ
+text=Oh come, all ye faithful, joyful and triumphant \\%0aOh come ye, Oh co-ome ye, to Be-eth-le-hem\\%0aCome and behold Him, born the King of angels\\\%0a%0aOh come, let us adore Him\\%0aOh come, let us adore Him\\%0aOh come, let us adore Hi-im\\%0a[[Christ|Chri-ist]] the Lord\\\%0a%0aGod o-of Go-od, Li-ight o-of Li-ight\\%0aLo, he abhor-ors not the Vir-irgin's womb\\%0aVery-ry God, begotten, not created\\\%0a%0aOh come, let us adore Him\\%0aOh come, let us adore Him\\%0aOh come, let us adore Hi-im\\%0a[[Christ|Chri-ist]] the Lord\\\%0a%0aSing, choirs of aangels, sing in exultation\\%0aSing, all ye citizens of heaven above\\%0aGlor-ory to Go-od, in the-e highest\\\%0a%0aOh come, let us adore Him\\%0aOh come, let us adore Him\\%0aOh come, let us adore Hi-im\\%0a[[Christ|Chri-ist]] the Lord
+time=1198174104
+author:1198174104=gnugnu
+diff:1198174104:1198174092:=26c26%0a%3c [[Christ|Chri-ist]] the Lord%0a\ No newline at end of file%0a---%0a> [[Christ|Chri-ist]] the Lord\\%0a\ No newline at end of file%0a
+host:1198174104=24.215.192.216
+author:1198174092=gnugnu
+diff:1198174092:1198174092:=1,26d0%0a%3c Oh come, all ye faithful, joyful and triumphant \\%0a%3c Oh come ye, Oh co-ome ye, to Be-eth-le-hem\\%0a%3c Come and behold Him, born the King of angels\\\%0a%3c %0a%3c Oh come, let us adore Him\\%0a%3c Oh come, let us adore Him\\%0a%3c Oh come, let us adore Hi-im\\%0a%3c [[Christ|Chri-ist]] the Lord\\\%0a%3c %0a%3c God o-of Go-od, Li-ight o-of Li-ight\\%0a%3c Lo, he abhor-ors not the Vir-irgin's womb\\%0a%3c Very-ry God, begotten, not created\\\%0a%3c %0a%3c Oh come, let us adore Him\\%0a%3c Oh come, let us adore Him\\%0a%3c Oh come, let us adore Hi-im\\%0a%3c [[Christ|Chri-ist]] the Lord\\\%0a%3c %0a%3c Sing, choirs of aangels, sing in exultation\\%0a%3c Sing, all ye citizens of heaven above\\%0a%3c Glor-ory to Go-od, in the-e highest\\\%0a%3c %0a%3c Oh come, let us adore Him\\%0a%3c Oh come, let us adore Him\\%0a%3c Oh come, let us adore Hi-im\\%0a%3c [[Christ|Chri-ist]] the Lord\\%0a\ No newline at end of file%0a
+host:1198174092=24.215.192.216

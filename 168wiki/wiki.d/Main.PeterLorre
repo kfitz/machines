@@ -1,0 +1,20 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=Timber of Fennario
+csum=
+ctime=1198040494
+host=134.173.94.14
+name=Main.PeterLorre
+rev=3
+targets=
+text=It took 76 years for another villain as good looking as pete to come along.%0a%0ahttp://www.moviecitynews.com/static_images/images/2004/200x200/m.jpg%0a%0ahttp://www.cbc.ca/arts/images/arts_old-men_392.jpg%0a%0ahttp://www.jahsonic.com/M.jpg%0a%0ahttp://www.lashorasperdidas.com/wp-content/uploads/2007/04/javier-bardem-en-no-country-for-old-men.jpg%0a%0ahttp://www.movieactors.com/freezes1/M38.jpeg%0a%0ahttp://images.stltoday.com/stltoday/resources/nocountryforoldmen315.jpg%0a
+time=1198040673
+author:1198040673=Timber of Fennario
+diff:1198040673:1198040645:=
+host:1198040673=134.173.94.14
+author:1198040645=Timber of Fennario
+diff:1198040645:1198040494:=1,2c1,2%0a%3c It took 76 years for another villain as good looking as pete to come along.%0a%3c %0a---%0a> It took 76 years for another villian as good looking as pete.%0a> %0a
+host:1198040645=134.173.94.14
+author:1198040494=Timber of Fennario
+diff:1198040494:1198040494:=1,13d0%0a%3c It took 76 years for another villian as good looking as pete.%0a%3c %0a%3c http://www.moviecitynews.com/static_images/images/2004/200x200/m.jpg%0a%3c %0a%3c http://www.cbc.ca/arts/images/arts_old-men_392.jpg%0a%3c %0a%3c http://www.jahsonic.com/M.jpg%0a%3c %0a%3c http://www.lashorasperdidas.com/wp-content/uploads/2007/04/javier-bardem-en-no-country-for-old-men.jpg%0a%3c %0a%3c http://www.movieactors.com/freezes1/M38.jpeg%0a%3c %0a%3c http://images.stltoday.com/stltoday/resources/nocountryforoldmen315.jpg%0a
+host:1198040494=134.173.94.14

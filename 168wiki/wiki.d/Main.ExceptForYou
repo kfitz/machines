@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/523.12 (KHTML, like Gecko) Version/3.0.4 Safari/523.12
+author=stumpy
+csum=
+ctime=1198138656
+host=72.72.88.206
+name=Main.ExceptForYou
+rev=1
+targets=
+text=http://farm2.static.flickr.com/1035/714044406_400b2016f6_o.jpg
+time=1198138656
+author:1198138656=stumpy
+diff:1198138656:1198138656:=1d0%0a%3c http://farm2.static.flickr.com/1035/714044406_400b2016f6_o.jpg%0a\ No newline at end of file%0a
+host:1198138656=72.72.88.206

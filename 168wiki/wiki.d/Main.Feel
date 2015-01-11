@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11
+author=campagnolo
+csum=
+ctime=1196846890
+host=134.173.88.69
+name=Main.Feel
+rev=2
+targets=
+text=Severin, severin, speak so slightly\\%0aSeverin, down on your bended knee\\%0aTaste the whip, in love not given lightly\\%0aTaste the whip, now plead for me\\%0a\\%0aI am tired, I am weary\\%0aI could sleep for a thousand years\\%0aA thousand dreams that would awake me\\%0aDifferent colors made of tears\\%0a\\%0aShiny, shiny, shiny boots of leather\\%0aWhiplash girlchild in the dark\\%0aSeverin, your servant comes in bells, please dont forsake him\\%0aStrike, dear mistress, and cure his heart\\%0a\\%0a~Lou Reed
+time=1196846901
+author:1196846901=campagnolo
+diff:1196846901:1196846890:=10c10%0a%3c \\%0a---%0a> %0a15d14%0a%3c \\%0a
+host:1196846901=134.173.88.69
+author:1196846890=campagnolo
+diff:1196846890:1196846890:=1,15d0%0a%3c Severin, severin, speak so slightly\\%0a%3c Severin, down on your bended knee\\%0a%3c Taste the whip, in love not given lightly\\%0a%3c Taste the whip, now plead for me\\%0a%3c \\%0a%3c I am tired, I am weary\\%0a%3c I could sleep for a thousand years\\%0a%3c A thousand dreams that would awake me\\%0a%3c Different colors made of tears\\%0a%3c %0a%3c Shiny, shiny, shiny boots of leather\\%0a%3c Whiplash girlchild in the dark\\%0a%3c Severin, your servant comes in bells, please dont forsake him\\%0a%3c Strike, dear mistress, and cure his heart\\%0a%3c ~Lou Reed%0a\ No newline at end of file%0a
+host:1196846890=134.173.88.69

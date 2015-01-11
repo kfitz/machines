@@ -1,0 +1,23 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.9) Gecko/20071025 Firefox/2.0.0.9
+author=jughead
+csum=
+ctime=1191788992
+host=134.173.70.1
+name=Profiles.Jughead
+rev=4
+targets=Profiles.Metajug
+text=name: Forsythe P. Jones III\\%0abirthdate: February 7, 1941\\%0aactivities: eating, sleeping, eating.\\%0aAttach:jughead.jpg\\%0a%0a%0a%0a%0a\\\\\\\%0a%0a[[metajug]]
+time=1195949895
+author:1195949895=jughead
+diff:1195949895:1195949749:=1,10c1,10%0a%3c name: Forsythe P. Jones III\\%0a%3c birthdate: February 7, 1941\\%0a%3c activities: eating, sleeping, eating.\\%0a%3c Attach:jughead.jpg\\%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c \\\\\\\%0a%3c %0a---%0a> name: Forsythe P. Jones III%0a> birthdate: February 7, 1941%0a> activities: eating, sleeping, eating.%0a> %0a> %0a> Attach:jughead.ext%0a> %0a> %0a> %0a> %0a
+host:1195949895=134.173.70.1
+author:1195949749=jughead
+diff:1195949749:1194630222:=1,11c1,9%0a%3c name: Forsythe P. Jones III%0a%3c birthdate: February 7, 1941%0a%3c activities: eating, sleeping, eating.%0a%3c %0a%3c %0a%3c Attach:jughead.ext%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c [[metajug]]%0a\ No newline at end of file%0a---%0a> email: stephanie.tomlin@pomona.edu%0a> %0a> %0a> %0a> %0a> %0a> %0a> %0a> [[m]]%0a\ No newline at end of file%0a
+host:1195949749=134.173.70.1
+author:1194630222=jughead
+diff:1194630222:1191788992:=1,9c1,2%0a%3c email: stephanie.tomlin@pomona.edu%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c [[m]]%0a\ No newline at end of file%0a---%0a> %0a> email: stephanie.tomlin@pomona.edu%0a\ No newline at end of file%0a
+host:1194630222=134.173.74.241
+author:1191788992=jughead
+diff:1191788992:1191788992:=1,2d0%0a%3c %0a%3c email: stephanie.tomlin@pomona.edu%0a\ No newline at end of file%0a
+host:1191788992=134.173.90.3

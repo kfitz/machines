@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit/419.2 (KHTML, like Gecko) Safari/419.3
+author=gnugnu
+csum=
+ctime=1193117418
+host=76.170.115.39
+name=Main.TheKindThatLandsYouInJail
+rev=1
+targets=Main.OldSchool,Main.NewSchool
+text=[[old school]]%0a%0a[[new school]]
+time=1193117418
+author:1193117418=gnugnu
+diff:1193117418:1193117418:=1,3d0%0a%3c [[old school]]%0a%3c %0a%3c [[new school]]%0a\ No newline at end of file%0a
+host:1193117418=76.170.115.39

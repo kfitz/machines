@@ -1,0 +1,35 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/523.10.5 (KHTML, like Gecko) Version/3.0.4 Safari/523.10.6
+author=KF
+csum=
+host=134.173.81.74
+name=Site.SideBar
+passwdedit=@_site_edit
+rev=12
+targets=Main.HomePage,Main.RecentChanges,Main.AllWikiPages,Main.WikiSandbox,Site.SideBar
+text=* [[http://machines.pomona.edu/168-2007/ | Writing Machines]]%0a* [[Main/Home Page | Wiki Home]]%0a* [[Main/Recent Changes]]%0a* [[Main/All Wiki Pages]]%0a* [[Main/Wiki Sandbox]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1198024268
+author:1198024268=KF
+diff:1198024268:1194630199:=6c6,7%0a%3c %0a---%0a> * [[Meta/HomePage | Meta]]%0a> %0a
+host:1198024268=134.173.81.74
+author:1194630199=KF
+diff:1194630199:1194629285:=6,7c6,7%0a%3c * [[Meta/HomePage | Meta]]%0a%3c %0a---%0a> * [[Meta/MetaPage | Meta]]%0a> %0a
+host:1194630199=134.173.75.155
+author:1194629285=KF
+diff:1194629285:1194629262:=6,7c6,7%0a%3c * [[Meta/MetaPage | Meta]]%0a%3c %0a---%0a> * [[Meta/Home Page | Meta]]%0a> %0a
+host:1194629285=134.173.75.155
+author:1194629262=KF
+diff:1194629262:1190954355:=6,7c6%0a%3c * [[Meta/Home Page | Meta]]%0a%3c %0a---%0a> %0a
+host:1194629262=134.173.75.155
+author:1190954355=KF
+diff:1190954355:1190953801:=4c4%0a%3c * [[Main/All Wiki Pages]]%0a---%0a> * [[Main/All Pages]]%0a
+host:1190954355=71.104.244.66
+author:1190953801=KF
+diff:1190953801:1190953304:=5,6c5%0a%3c * [[Main/Wiki Sandbox]]%0a%3c %0a---%0a> %0a
+host:1190953801=71.104.244.66
+author:1190953304=KF
+diff:1190953304:1190953255:=4,5c4,6%0a%3c * [[Main/All Pages]]%0a%3c %0a---%0a> * [[(:pagelist:) | All Pages]]%0a> %0a> %0a
+host:1190953304=71.104.244.66
+author:1190953255=KF
+diff:1190953255:1189139492:=4,6c4,5%0a%3c * [[(:pagelist:) | All Pages]]%0a%3c %0a%3c %0a---%0a> %0a> %0a
+host:1190953255=71.104.244.66

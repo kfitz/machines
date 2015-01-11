@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.9) Gecko/20071025 Firefox/2.0.0.9
+author=campagnolo
+csum=
+ctime=1195010666
+host=134.173.88.69
+name=Main.To
+rev=1
+targets=Main.Consecrate
+text=Kat paused. His pen hovered over the steno pad. To. To whom? That tiny, accusing word.\\%0aSo many assumptions. To. To what? Fuck to, sitting so flat, so alone. Why was it that a letter had to be to someone?\\%0aWhy was it you always had to be going to somewhere? Some of them had no one and nowhere.\\%0a[[consecrate | %25red%25Tom%25%25]] had his sister, before he took 4 rounds in his back, pants around his ankles,\\%0apissing the champagne out on New Years. Maybe Kat could write to Tom's sister.    %0a 
+time=1195010666
+author:1195010666=campagnolo
+diff:1195010666:1195010666:=1,6d0%0a%3c Kat paused. His pen hovered over the steno pad. To. To whom? That tiny, accusing word.\\%0a%3c So many assumptions. To. To what? Fuck to, sitting so flat, so alone. Why was it that a letter had to be to someone?\\%0a%3c Why was it you always had to be going to somewhere? Some of them had no one and nowhere.\\%0a%3c [[consecrate | %25red%25Tom%25%25]] had his sister, before he took 4 rounds in his back, pants around his ankles,\\%0a%3c pissing the champagne out on New Years. Maybe Kat could write to Tom's sister.    %0a%3c  %0a\ No newline at end of file%0a
+host:1195010666=134.173.88.69

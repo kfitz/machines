@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11
+author=campagnolo
+csum=
+ctime=1196845480
+host=134.173.88.69
+name=Main.Freud
+rev=1
+targets=Main.To,Main.Love
+text=%25red%25[[to | One]]%25%25 is very crazy when in [[love]].%0a~Sigmund Freud
+time=1196845480
+author:1196845480=campagnolo
+diff:1196845480:1196845480:=1,2d0%0a%3c %25red%25[[to | One]]%25%25 is very crazy when in [[love]].%0a%3c ~Sigmund Freud%0a\ No newline at end of file%0a
+host:1196845480=134.173.88.69

@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=stumpy
+csum=
+ctime=1194775423
+host=134.173.93.161
+name=Main.You
+rev=2
+targets=
+text=!! First They Came for the Jews%0a%0a%0a!!! Pastor Martin Niemöller%0a%0a%0aFirst they came for the Jews\\%0aand I did not speak out\\%0abecause I was not a Jew.\\%0aThen they came for the Communists\\%0aand I did not speak out\\%0abecause I was not a Communist.\\%0aThen they came for the trade unionists\\%0aand I did not speak out\\%0abecause I was not a trade unionist.\\%0aThen they came for me\\%0aand there was no one left\\%0ato speak out for me.%0a%0a%0a
+time=1194775438
+author:1194775438=stumpy
+diff:1194775438:1194775423:=0a1%0a> %0a
+host:1194775438=134.173.93.161
+author:1194775423=stumpy
+diff:1194775423:1194775423:=1,21d0%0a%3c %0a%3c !! First They Came for the Jews%0a%3c %0a%3c %0a%3c !!! Pastor Martin Niemöller%0a%3c %0a%3c %0a%3c First they came for the Jews\\%0a%3c and I did not speak out\\%0a%3c because I was not a Jew.\\%0a%3c Then they came for the Communists\\%0a%3c and I did not speak out\\%0a%3c because I was not a Communist.\\%0a%3c Then they came for the trade unionists\\%0a%3c and I did not speak out\\%0a%3c because I was not a trade unionist.\\%0a%3c Then they came for me\\%0a%3c and there was no one left\\%0a%3c to speak out for me.%0a%3c %0a%3c %0a
+host:1194775423=134.173.93.161

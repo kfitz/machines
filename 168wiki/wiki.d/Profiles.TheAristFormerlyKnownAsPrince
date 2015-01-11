@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.10) Gecko/20071115 Firefox/2.0.0.10
+author=jughead
+csum=
+ctime=1194842839
+host=134.173.89.79
+name=Profiles.TheAristFormerlyKnownAsPrince
+rev=2
+targets=
+text='Cuz they say two thousand zero zero party over\\%0aOops out of time\\%0aSo tonight I'm gonna party like it's 1999
+time=1196540927
+author:1196540927=jughead
+diff:1196540927:1194842839:=
+host:1196540927=134.173.89.79
+author:1194842839=stumpy
+diff:1194842839:1194842839:=1,3d0%0a%3c 'Cuz they say two thousand zero zero party over\\%0a%3c Oops out of time\\%0a%3c So tonight I'm gonna party like it's 1999%0a\ No newline at end of file%0a
+host:1194842839=134.173.192.122

@@ -1,0 +1,18 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.9) Gecko/20071025 Firefox/2.0.0.9
+author=jughead
+csum=
+ctime=1195944825
+host=134.173.70.1
+name=Main.Lt3
+rev=2
+targets=
+text=
+time=1195945785
+author:1195945785=jughead
+diff:1195945785:1195944825:=0a1,2%0a> %0a> [[http://youtube.com/watch?v=J8lExg24PSs&feature=related | PDA]]%0a\ No newline at end of file%0a
+host:1195945785=134.173.70.1
+author:1195944825=jughead
+csum:1195944825=kissssses
+diff:1195944825:1195944825:=1,2d0%0a%3c %0a%3c [[http://youtube.com/watch?v=J8lExg24PSs&feature=related | PDA]]%0a\ No newline at end of file%0a
+host:1195944825=134.173.70.1

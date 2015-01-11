@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=gnugnu
+csum=
+ctime=1194630421
+host=134.173.74.133
+name=Profiles.Gnugnu
+rev=1
+targets=
+text=i am a [[http://eq.magelo.com/profile/1148342 | human druid]].
+time=1194630421
+author:1194630421=gnugnu
+diff:1194630421:1194630421:=1d0%0a%3c i am a [[http://eq.magelo.com/profile/1148342 | human druid]].%0a\ No newline at end of file%0a
+host:1194630421=134.173.74.133

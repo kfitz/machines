@@ -1,0 +1,24 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=TimberOfFennario
+csum=really creepy link
+ctime=1193117871
+host=134.173.94.49
+name=Main.OldSchool
+rev=4
+targets=Main.LoveThatMakesYouIncorrigible,Main.LoveThatMakesYouKindOfCreepy,Main.LoveThatMakesYouReallyCreepy
+text=[[love that makes you incorrigible]]%0a%0a[[love that makes you kind of creepy]]%0a%0a[[love that makes you really creepy]]
+time=1194558107
+author:1194558107=TimberOfFennario
+csum:1194558107=really creepy link
+diff:1194558107:1193700638:=3,5c3%0a%3c [[love that makes you kind of creepy]]%0a%3c %0a%3c [[love that makes you really creepy]]%0a\ No newline at end of file%0a---%0a> [[love that makes you kind of creepy]]%0a\ No newline at end of file%0a
+host:1194558107=134.173.94.49
+author:1193700638=gnugnu
+diff:1193700638:1193163605:=1,2c1,2%0a%3c [[love that makes you incorrigible]]%0a%3c %0a---%0a> [[http://query.nytimes.com/mem/archive-free/pdf?_r=1&res=9E03E2D7173EE033A25753C3A9639C946897D6CF&oref=slogin | love that makes you incorrigible]]%0a> %0a
+host:1193700638=134.173.86.23
+author:1193163605=gnugnu
+diff:1193163605:1193117871:=1,3c1,3%0a%3c [[http://query.nytimes.com/mem/archive-free/pdf?_r=1&res=9E03E2D7173EE033A25753C3A9639C946897D6CF&oref=slogin | love that makes you incorrigible]]%0a%3c %0a%3c [[love that makes you kind of creepy]]%0a\ No newline at end of file%0a---%0a> [[http://query.nytimes.com/mem/archive-free/pdf?_r=1&res=9E03E2D7173EE033A25753C3A9639C946897D6CF&oref=slogin | being incorrigible]]%0a> %0a> [[being a little creepy]]%0a\ No newline at end of file%0a
+host:1193163605=134.173.86.76
+author:1193117871=gnugnu
+diff:1193117871:1193117871:=1,3d0%0a%3c [[http://query.nytimes.com/mem/archive-free/pdf?_r=1&res=9E03E2D7173EE033A25753C3A9639C946897D6CF&oref=slogin | being incorrigible]]%0a%3c %0a%3c [[being a little creepy]]%0a\ No newline at end of file%0a
+host:1193117871=76.170.115.39

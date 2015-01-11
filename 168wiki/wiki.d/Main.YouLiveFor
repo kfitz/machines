@@ -1,0 +1,20 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11
+author=campagnolo
+csum=
+ctime=1196566673
+host=134.173.88.69
+name=Main.YouLiveFor
+rev=3
+targets=Main.Sadism
+text=You say to me, "Life is hard to bear." But why would you have your pride in the morning and your resignation in the evening? Life is hard to bear; but do not act so tenderly! We are all of us fair beasts of burden, male and female asses. What do we have in common with the rosebud, which trembles because a drop of dew lies on it?\\%0aTrue, we love life, not because we are used to living but because we are used to loving. There is always some madness in love. But there is also always some %25red%25[[Sadism | reason in madness.]]%25%25\\%0aAnd to me too, as I am well disposed toward life, butterflies and soap bubbles and whatever among men is of their kind seem to know the most about happiness. Seeing these light, foolish, delicate, mobile little souls flutter--that seduces Zarathustra to tears and songs.\\%0aI would believe only in a god who could dance. And when I saw my devil I found him serious, thorough, profound, and solemn: it was the spirit of gravity--through him all things fall.\\%0aNot by wrath does one kill but by laughter. Come, let us kill the spirit of gravity!\\%0aI have learned to walk: ever since, I let myself run. I have learned to fly: ever since, I do not want to be pushed before moving along.\\%0aNow I am light, now I fly, now I see myself beneath myself, now a god dances through me.\\%0aThus spoke Zarathustra.
+time=1196845972
+author:1196845972=campagnolo
+diff:1196845972:1196845904:=2c2%0a%3c True, we love life, not because we are used to living but because we are used to loving. There is always some madness in love. But there is also always some %25red%25[[Sadism | reason in madness.]]%25%25\\%0a---%0a> True, we love life, not because we are used to living but because we are used to loving. There is always some madness in love. But there is also always some %25red%25[[reason in madness.]]%25%25\\%0a
+host:1196845972=134.173.88.69
+author:1196845904=campagnolo
+diff:1196845904:1196566673:=2c2%0a%3c True, we love life, not because we are used to living but because we are used to loving. There is always some madness in love. But there is also always some %25red%25[[reason in madness.]]%25%25\\%0a---%0a> True, we love life, not because we are used to living but because we are used to loving. There is always some madness in love. But there is also always some reason in madness.\\%0a
+host:1196845904=134.173.88.69
+author:1196566673=gnugnu
+diff:1196566673:1196566673:=1,8d0%0a%3c You say to me, "Life is hard to bear." But why would you have your pride in the morning and your resignation in the evening? Life is hard to bear; but do not act so tenderly! We are all of us fair beasts of burden, male and female asses. What do we have in common with the rosebud, which trembles because a drop of dew lies on it?\\%0a%3c True, we love life, not because we are used to living but because we are used to loving. There is always some madness in love. But there is also always some reason in madness.\\%0a%3c And to me too, as I am well disposed toward life, butterflies and soap bubbles and whatever among men is of their kind seem to know the most about happiness. Seeing these light, foolish, delicate, mobile little souls flutter--that seduces Zarathustra to tears and songs.\\%0a%3c I would believe only in a god who could dance. And when I saw my devil I found him serious, thorough, profound, and solemn: it was the spirit of gravity--through him all things fall.\\%0a%3c Not by wrath does one kill but by laughter. Come, let us kill the spirit of gravity!\\%0a%3c I have learned to walk: ever since, I let myself run. I have learned to fly: ever since, I do not want to be pushed before moving along.\\%0a%3c Now I am light, now I fly, now I see myself beneath myself, now a god dances through me.\\%0a%3c Thus spoke Zarathustra.%0a\ No newline at end of file%0a
+host:1196566673=76.173.251.53

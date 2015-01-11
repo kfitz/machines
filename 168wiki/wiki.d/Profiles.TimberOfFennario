@@ -1,0 +1,15 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=TimberOfFennario
+csum=input info
+ctime=1191302386
+host=134.173.93.85
+name=Profiles.TimberOfFennario
+rev=1
+targets=
+text=email: samuel.baldwin@pomona.edu\\%0adel.icio.us: sambaldwin11
+time=1191302386
+author:1191302386=TimberOfFennario
+csum:1191302386=input info
+diff:1191302386:1191302386:=1,2d0%0a%3c email: samuel.baldwin@pomona.edu\\%0a%3c del.icio.us: sambaldwin11%0a\ No newline at end of file%0a
+host:1191302386=134.173.93.85

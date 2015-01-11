@@ -1,0 +1,18 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=Timber of Fennario
+csum=
+ctime=1191296134
+host=134.173.94.14
+name=Main.Highways
+rev=2
+targets=
+text=
+time=1198036979
+author:1198036979=Timber of Fennario
+diff:1198036979:1191296134:=0a1,3%0a> !!hiawatha highway%0a> %0a> Highways need names.  Their function depends on them.  And so the [[northern lake country]] is a [[mess of names]].  Thousands of little wearings away and we think they might have started with those long lost mega-fauna: Mastodon, [[Dire Wolf]], Giant Bison, passed down though our friend the moose, through Paleolithic man, through [[Algonquin]] speakers and [[Frenchman]] and loggers and campers and here we are tripping on a tree root, spitting on a [[rock]].  These deer run portages that make the highways of the water.  Little creases in the wild that connect [[one shining sea to the other]].  Stubborn land bridges marked with [[rock cairns]] and tobacco grounds and deer shit and blueberries.  Highways without names and we’d all be lost.  The [[northern lake country]] is a [[mess of names]].%0a\ No newline at end of file%0a
+host:1198036979=134.173.94.14
+author:1191296134=TimberOfFennario
+csum:1191296134=creating a bunch of new pages from links
+diff:1191296134:1191296134:=1,3d0%0a%3c !!hiawatha highway%0a%3c %0a%3c Highways need names.  Their function depends on them.  And so the [[northern lake country]] is a [[mess of names]].  Thousands of little wearings away and we think they might have started with those long lost mega-fauna: Mastodon, [[Dire Wolf]], Giant Bison, passed down though our friend the moose, through Paleolithic man, through [[Algonquin]] speakers and [[Frenchman]] and loggers and campers and here we are tripping on a tree root, spitting on a [[rock]].  These deer run portages that make the highways of the water.  Little creases in the wild that connect [[one shining sea to the other]].  Stubborn land bridges marked with [[rock cairns]] and tobacco grounds and deer shit and blueberries.  Highways without names and we’d all be lost.  The [[northern lake country]] is a [[mess of names]].   %0a\ No newline at end of file%0a
+host:1191296134=134.173.93.85

@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1) Gecko/20061010 Firefox/2.0
+author=gnugnu
+csum=
+ctime=1191474362
+host=134.173.133.158
+name=Main.ThatTime
+rev=2
+targets=Main.ThrowingGame,Main.FreakOn,Main.Story
+text=!!the long story, made short%0a%0aZeus is busy [[throwing game]] at Io, this super hot princess, when Hera shows up, ready to lay the hurt on him. Zeus doesn't want to get caught with his pants down, so he pulls his pants up and turns Io into a cow.%0a%0aSo Hera's like, "Hey, honey, what're you up to? Just hanging out alone with this cow?"%0a%0aAnd Zeus is like, "What? A cow? What cow? Oh, ''that'' cow. You know, I didn't even notice her. I was too distracted by my love for you." %0a%0aAnd Hera's like, "Well, isn't that lucky! I was actually just thinking that a cow is exactly what the house needs right now. Can I take this one? Unless, of course, you've already bonded with her..."%0a%0aAnd Zeus is like, "Oh, no, no no no! Please, take her!"%0a%0aSo Hera is pissed off because Zeus was obviously getting his [[freak on]] behind her back. She orders Argus to watch the cow 24/7, which he can do because he has a hundred eyes. %0a%0aBut Zeus feels pretty shitty about giving Io to Hera, and he tells Hermes to set her free. So Hermes tells Argus a [[story]] to make him fall asleep, then cuts off his head with a huge sword. Yeah, Hermes is a badass.%0a%0a%25center%25 http://www.uwm.edu/Course/mythology/0600/765.jpg%0a
+time=1191476945
+author:1191476945=gnugnu
+diff:1191476945:1191474362:minor=13,14c13,14%0a%3c So Hera is pissed off because Zeus was obviously getting his [[freak on]] behind her back. She orders Argus to watch the cow 24/7, which he can do because he has a hundred eyes. %0a%3c %0a---%0a> So Hera is ''pissed off'' because Zeus was obviously getting his [[freak on]] behind her back. She orders Argus to watch the cow 24/7, which he can do because he has a hundred eyes. %0a> %0a
+host:1191476945=134.173.133.158
+author:1191474362=gnugnu
+diff:1191474362:1191474362:=1,17d0%0a%3c !!the long story, made short%0a%3c %0a%3c Zeus is busy [[throwing game]] at Io, this super hot princess, when Hera shows up, ready to lay the hurt on him. Zeus doesn't want to get caught with his pants down, so he pulls his pants up and turns Io into a cow.%0a%3c %0a%3c So Hera's like, "Hey, honey, what're you up to? Just hanging out alone with this cow?"%0a%3c %0a%3c And Zeus is like, "What? A cow? What cow? Oh, ''that'' cow. You know, I didn't even notice her. I was too distracted by my love for you." %0a%3c %0a%3c And Hera's like, "Well, isn't that lucky! I was actually just thinking that a cow is exactly what the house needs right now. Can I take this one? Unless, of course, you've already bonded with her..."%0a%3c %0a%3c And Zeus is like, "Oh, no, no no no! Please, take her!"%0a%3c %0a%3c So Hera is ''pissed off'' because Zeus was obviously getting his [[freak on]] behind her back. She orders Argus to watch the cow 24/7, which he can do because he has a hundred eyes. %0a%3c %0a%3c But Zeus feels pretty shitty about giving Io to Hera, and he tells Hermes to set her free. So Hermes tells Argus a [[story]] to make him fall asleep, then cuts off his head with a huge sword. Yeah, Hermes is a badass.%0a%3c %0a%3c %25center%25 http://www.uwm.edu/Course/mythology/0600/765.jpg%0a
+host:1191474362=134.173.133.158

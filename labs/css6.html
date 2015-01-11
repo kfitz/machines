@@ -1,0 +1,65 @@
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+<title>css, part 2</title>
+<link rel="stylesheet" href="style1.css" type="text/css" />
+</head>
+
+<body>
+
+<h1>CSS, Part 2</h1>
+
+<h2>Classes</h2>
+
+<p>Initially, when we started working with CSS, we focused on changing the ways that a browser renders standard HTML tags, like &lt;h1&gt;, &lt;p&gt;, and the like, with examples such as this:</p>
+
+<blockquote><code>h1 {<br />
+&nbsp;&nbsp;&nbsp;&nbsp;color: #990066;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;font-weight: bold;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;font-size: 40px;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;font-family: helvetica,arial,sans-serif;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;text-align: center;<br />
+}<br />
+p {<br />
+&nbsp;&nbsp;&nbsp;&nbsp;margin-top: 6px;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;margin-left: 70px;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;margin-right: 70px;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;color: #000000;<br />
+}<br />
+</code></blockquote>
+
+<p>However, it's also possible to define multiple ways for a single HTML tag to render, by using classes.  For instance, you could define a class called "blue," by including something like this in your stylesheet:</p>
+
+<blockquote><code>.blue {<br />
+&nbsp;&nbsp;&nbsp;&nbsp;color: #0000CC;<br />
+}<br /></code></blockquote>
+
+<p>This code creates a class called "blue" that can be applied to any tag used in your HTML document, like this:</p>
+
+<blockquote><code>
+&lt;p class="blue"&gt;This paragraph should render as blue.&lt;/p&gt;
+</code></blockquote>
+
+<p>Which actually winds up looking like this:</p>
+
+<p class="blue">This paragraph should be blue.</p>
+
+<p>You can use a class like this with any other appropriate tag -- for instance, an h2:</p>
+
+<h2 class="blue">This subhead should be blue.</h2>
+
+<p>Everything else about the formatting is kept from the general stylesheet instructions for the tag; only the properties specified by the class are overridden.  (Be careful, however; if you write conflicting properties into different parts of your CSS, you might get unpredictable results.  It's best to define a property such as font-family or color in one and only one tag.)</p>
+
+<p>&nbsp;</p>
+
+<p><a href="css7.html">Go to the next page.</a></p>
+
+<p><a href="index.html">labs home</a><br />
+<a href="index.html">machines home</a></p>
+
+</body>
+
+</html>

@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.7) Gecko/20070914 Firefox/2.0.0.7
+author=KF
+csum=
+ctime=1190947487
+host=71.104.244.66
+name=Profiles.KF
+rev=1
+targets=
+text=KF is otherwise known as Kathleen Fitzpatrick, Associate Professor of English and Media Studies at Pomona College, and instructor of ENGL 168, Writing Machines.
+time=1190947487
+author:1190947487=KF
+diff:1190947487:1190947487:=1d0%0a%3c KF is otherwise known as Kathleen Fitzpatrick, Associate Professor of English and Media Studies at Pomona College, and instructor of ENGL 168, Writing Machines.%0a\ No newline at end of file%0a
+host:1190947487=71.104.244.66

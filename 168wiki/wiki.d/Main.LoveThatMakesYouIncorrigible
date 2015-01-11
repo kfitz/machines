@@ -1,0 +1,20 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.8) Gecko/20071008 Firefox/2.0.0.8
+author=gnugnu
+csum=
+ctime=1193701850
+host=134.173.86.23
+name=Main.LoveThatMakesYouIncorrigible
+rev=3
+targets=Main.Page8Cable-Section
+text=Attach:incorrigible3.jpg%0a%0aSeriously, do you want to find a furnished room?%0aSee [[Page 8, Cable-Section]].
+time=1193702013
+author:1193702013=gnugnu
+diff:1193702013:1193702001:=3,4c3%0a%3c Seriously, do you want to find a furnished room?%0a%3c See [[Page 8, Cable-Section]].%0a\ No newline at end of file%0a---%0a> Seriously, do you want to find a furnished room? See [[Page 8, Cable-Section]].%0a\ No newline at end of file%0a
+host:1193702013=134.173.86.23
+author:1193702001=gnugnu
+diff:1193702001:1193701850:=1,3c1%0a%3c Attach:incorrigible3.jpg%0a%3c %0a%3c Seriously, do you want to find a furnished room? See [[Page 8, Cable-Section]].%0a\ No newline at end of file%0a---%0a> Attach:incorrigible3.jpg%0a\ No newline at end of file%0a
+host:1193702001=134.173.86.23
+author:1193701850=gnugnu
+diff:1193701850:1193701850:=1d0%0a%3c Attach:incorrigible3.jpg%0a\ No newline at end of file%0a
+host:1193701850=134.173.86.23

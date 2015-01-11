@@ -1,0 +1,15 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=TimberOfFennario
+csum=baby blue content and links
+ctime=1194560603
+host=134.173.94.49
+name=Main.Sea-sick
+rev=1
+targets=Main.HomePage,Main.DulceEtDecorumEstProPuellaMori,Main.ReindeerArmies,Main.AllWikiPages,Main.Lies
+text='''Bringing It All Back [[HomePage|Home]], March 1965'''%0a%0aAll your [[DulceEtDecorumEstProPuellaMori|seasick sailors]], they are rowing home.\\%0aAll your [[reindeer armies]], are all going home.\\%0aThe lover who just walked out your door\\%0aHas taken all his blankets from the floor.\\%0aThe carpet, too, is moving under you\\%0aAnd it's all over now, Baby Blue.\\%0a%0a%0aLeave your [[AllWikiPages|stepping stones]] behind, something calls for you.\\%0aForget the dead you've left, they will not follow you.\\%0aThe vagabond who's rapping at your door\\%0aIs standing in the clothes that you once wore.\\%0aStrike another match, go start [[lies|anew]]\\%0aAnd it's all over now, Baby Blue.
+time=1194560603
+author:1194560603=TimberOfFennario
+csum:1194560603=baby blue content and links
+diff:1194560603:1194560603:=1,16d0%0a%3c '''Bringing It All Back [[HomePage|Home]], March 1965'''%0a%3c %0a%3c All your [[DulceEtDecorumEstProPuellaMori|seasick sailors]], they are rowing home.\\%0a%3c All your [[reindeer armies]], are all going home.\\%0a%3c The lover who just walked out your door\\%0a%3c Has taken all his blankets from the floor.\\%0a%3c The carpet, too, is moving under you\\%0a%3c And it's all over now, Baby Blue.\\%0a%3c %0a%3c %0a%3c Leave your [[AllWikiPages|stepping stones]] behind, something calls for you.\\%0a%3c Forget the dead you've left, they will not follow you.\\%0a%3c The vagabond who's rapping at your door\\%0a%3c Is standing in the clothes that you once wore.\\%0a%3c Strike another match, go start [[lies|anew]]\\%0a%3c And it's all over now, Baby Blue.%0a\ No newline at end of file%0a
+host:1194560603=134.173.94.49

@@ -1,0 +1,23 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Safari/419.3
+author=Timber of Fennario
+csum=
+ctime=1198038616
+host=134.173.94.14
+name=Main.Fritz
+rev=4
+targets=Main.PeterLorre,Main.HarryLime,Main.DerEwigeJude
+text=%25center%25Long before the "Red Balloon" a young [[Peter Lorre]] was roaming the streets and [[Harry Lime]] was selling penicilin.\\\%0a%0a%25center%25http://obits.eons.com/obits/tributes/peter_lorre/15102-1-photo.jpg%0a%0a%25center%25[[Der ewige Jude|"Who]] knows what it's like to be like me?" cries the murderer of children.
+time=1198131133
+author:1198131133=Timber of Fennario
+diff:1198131133:1198039659:=1,2c1,2%0a%3c %25center%25Long before the "Red Balloon" a young [[Peter Lorre]] was roaming the streets and [[Harry Lime]] was selling penicilin.\\\%0a%3c %0a---%0a> %25center%25Long before the "Red Balloon" a young [[Peter Lorre]] was roaming the streets and [[Harry Lyme]] was selling penicilin.\\\%0a> %0a
+host:1198131133=134.173.94.14
+author:1198039659=Timber of Fennario
+diff:1198039659:1198039395:=1,5c1,3%0a%3c %25center%25Long before the "Red Balloon" a young [[Peter Lorre]] was roaming the streets and [[Harry Lyme]] was selling penicilin.\\\%0a%3c %0a%3c %25center%25http://obits.eons.com/obits/tributes/peter_lorre/15102-1-photo.jpg%0a%3c %0a%3c %25center%25[[Der ewige Jude|"Who]] knows what it's like to be like me?" cries the murderer of children.%0a\ No newline at end of file%0a---%0a> Long before the "Red Balloon" a young [[Peter Lorre]] was roaming the streets and [[Harry Lyme]] was selling penicilin.\\\%0a> %0a> [[Der ewige Jude|"Who]] knows what it's like to be like me?" cries the murderer of children.%0a\ No newline at end of file%0a
+host:1198039659=134.173.94.14
+author:1198039395=Timber of Fennario
+diff:1198039395:1198038616:=1,2c1,2%0a%3c Long before the "Red Balloon" a young [[Peter Lorre]] was roaming the streets and [[Harry Lyme]] was selling penicilin.\\\%0a%3c %0a---%0a> Long before the "Red Balloon" a young Peter Lorre was roaming the streets and [[Harry Lyme]] was selling penicilin.\\\%0a> %0a
+host:1198039395=134.173.94.14
+author:1198038616=Timber of Fennario
+diff:1198038616:1198038616:=1,3d0%0a%3c Long before the "Red Balloon" a young Peter Lorre was roaming the streets and [[Harry Lyme]] was selling penicilin.\\\%0a%3c %0a%3c [[Der ewige Jude|"Who]] knows what it's like to be like me?" cries the murderer of children.%0a\ No newline at end of file%0a
+host:1198038616=134.173.94.14

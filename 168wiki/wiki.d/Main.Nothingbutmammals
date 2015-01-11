@@ -1,0 +1,35 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.9) Gecko/20071025 Firefox/2.0.0.9
+author=jughead
+csum=
+ctime=1194774204
+host=134.173.70.1
+name=Main.Nothingbutmammals
+rev=8
+targets=
+text=[[http://youtube.com/watch?v=J8lExg24PSs&feature=related | even in 1900]]
+time=1195945924
+author:1195945924=jughead
+diff:1195945924:1195945889:minor=1c1,2%0a%3c [[http://youtube.com/watch?v=J8lExg24PSs&feature=related | even in 1900]]%0a\ No newline at end of file%0a---%0a> %0a> [[http://youtube.com/watch?v=J8lExg24PSs&feature=related | in 1900]]%0a\ No newline at end of file%0a
+host:1195945924=134.173.70.1
+author:1195945889=jughead
+diff:1195945889:1195096355:=2d1%0a%3c [[http://youtube.com/watch?v=J8lExg24PSs&feature=related | in 1900]]%0a\ No newline at end of file%0a
+host:1195945889=134.173.70.1
+author:1195096355=stumpy
+diff:1195096355:1194774416:=1a2,17%0a> !! nothing but mammals%0a> %0a> %0a> And that's the message that we deliver to little kids\\%0a> And expect them not to know what a woman's clitoris is\\%0a> Of course they gonna know what intercourse is\\%0a> By the time they hit fourth grade\\%0a> They got the Discovery Channel don't they?\\%0a> "We ain't nothing but mammals.." Well, some of us cannibals\\%0a> who cut other people open like cantaloupes [SLURP]\\%0a> But if we can hump dead animals and antelopes\\%0a> then there's no reason that a man and another man can't elope\\%0a> [*EWWW!*] But if you feel like I feel, I got the antidote\\%0a> Women wave your pantyhose, sing the chorus and it goes\\%0a> %0a> -Eminem%0a\ No newline at end of file%0a
+host:1195096355=134.173.93.161
+author:1194774416=stumpy
+diff:1194774416:1194774285:=1,4d0%0a%3c %0a%3c !! nothing but mammals%0a%3c %0a%3c %0a
+host:1194774416=134.173.93.161
+author:1194774285=stumpy
+diff:1194774285:1194774233:=1,12c1,15%0a%3c And that's the message that we deliver to little kids\\%0a%3c And expect them not to know what a woman's clitoris is\\%0a%3c Of course they gonna know what intercourse is\\%0a%3c By the time they hit fourth grade\\%0a%3c They got the Discovery Channel don't they?\\%0a%3c "We ain't nothing but mammals.." Well, some of us cannibals\\%0a%3c who cut other people open like cantaloupes [SLURP]\\%0a%3c But if we can hump dead animals and antelopes\\%0a%3c then there's no reason that a man and another man can't elope\\%0a%3c [*EWWW!*] But if you feel like I feel, I got the antidote\\%0a%3c Women wave your pantyhose, sing the chorus and it goes\\%0a%3c %0a---%0a> And that's the message that we deliver to little kids%0a> %0a> And expect them not to know what a woman's clitoris is%0a> %0a> Of course they gonna know what intercourse is%0a> %0a> By the time they hit fourth grade%0a> They got the Discovery Channel don't they?%0a> "We ain't nothing but mammals.." Well, some of us cannibals%0a> who cut other people open like cantaloupes [SLURP]%0a> But if we can hump dead animals and antelopes%0a> then there's no reason that a man and another man can't elope%0a> [*EWWW!*] But if you feel like I feel, I got the antidote%0a> Women wave your pantyhose, sing the chorus and it goes%0a> %0a
+host:1194774285=134.173.93.161
+author:1194774233=stumpy
+diff:1194774233:1194774216:=1,6c1,3%0a%3c And that's the message that we deliver to little kids%0a%3c %0a%3c And expect them not to know what a woman's clitoris is%0a%3c %0a%3c Of course they gonna know what intercourse is%0a%3c %0a---%0a> And that's the message that we deliver to little kids//%0a> And expect them not to know what a woman's clitoris is//%0a> Of course they gonna know what intercourse is//%0a
+host:1194774233=134.173.93.161
+author:1194774216=stumpy
+diff:1194774216:1194774204:=1,3c1,3%0a%3c And that's the message that we deliver to little kids//%0a%3c And expect them not to know what a woman's clitoris is//%0a%3c Of course they gonna know what intercourse is//%0a---%0a> And that's the message that we deliver to little kids%0a> And expect them not to know what a woman's clitoris is%0a> Of course they gonna know what intercourse is%0a
+host:1194774216=134.173.93.161
+author:1194774204=stumpy
+diff:1194774204:1194774204:=1,13d0%0a%3c And that's the message that we deliver to little kids%0a%3c And expect them not to know what a woman's clitoris is%0a%3c Of course they gonna know what intercourse is%0a%3c By the time they hit fourth grade%0a%3c They got the Discovery Channel don't they?%0a%3c "We ain't nothing but mammals.." Well, some of us cannibals%0a%3c who cut other people open like cantaloupes [SLURP]%0a%3c But if we can hump dead animals and antelopes%0a%3c then there's no reason that a man and another man can't elope%0a%3c [*EWWW!*] But if you feel like I feel, I got the antidote%0a%3c Women wave your pantyhose, sing the chorus and it goes%0a%3c %0a%3c -Eminem%0a\ No newline at end of file%0a
+host:1194774204=134.173.93.161

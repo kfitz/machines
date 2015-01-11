@@ -1,0 +1,20 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-us) AppleWebKit/523.10.3 (KHTML, like Gecko) Version/3.0.4 Safari/523.10
+author=gnugnu
+csum=
+ctime=1198173257
+host=24.215.192.216
+name=Main.Christ
+rev=3
+targets=Main.Love
+text=[[Love | http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Diego_Velasquez,_Christ_on_the_Cross.jpg/392px-Diego_Velasquez,_Christ_on_the_Cross.jpg]]
+time=1198173373
+author:1198173373=gnugnu
+diff:1198173373:1198173324:=1c1%0a%3c [[Love | http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Diego_Velasquez,_Christ_on_the_Cross.jpg/392px-Diego_Velasquez,_Christ_on_the_Cross.jpg]]%0a\ No newline at end of file%0a---%0a> http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Diego_Velasquez,_Christ_on_the_Cross.jpg/392px-Diego_Velasquez,_Christ_on_the_Cross.jpg%0a\ No newline at end of file%0a
+host:1198173373=24.215.192.216
+author:1198173324=gnugnu
+diff:1198173324:1198173257:=1c1%0a%3c http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Diego_Velasquez,_Christ_on_the_Cross.jpg/392px-Diego_Velasquez,_Christ_on_the_Cross.jpg%0a\ No newline at end of file%0a---%0a> Attach:christ.ext%0a\ No newline at end of file%0a
+host:1198173324=24.215.192.216
+author:1198173257=gnugnu
+diff:1198173257:1198173257:=1d0%0a%3c Attach:christ.ext%0a\ No newline at end of file%0a
+host:1198173257=24.215.192.216

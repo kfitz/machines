@@ -1,0 +1,20 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-us) AppleWebKit/523.10.3 (KHTML, like Gecko) Version/3.0.4 Safari/523.10
+author=gnugnu
+csum=
+ctime=1198173227
+host=24.215.192.216
+name=Main.SilentNight
+rev=3
+targets=Main.Christ
+text=Silent night, holy night\\%0aAll is calm, all is bright\\%0aRound yon Virgin Mother and Child\\%0aHoly Infant so tender and mild\\%0aSleep in heavenly peace\\%0aSleep in heavenly peace\\\%0a%0aSilent night, holy night!\\%0aShepherds quake at the sight\\%0aGlories stream from heaven afar\\%0aHeavenly hosts sing Alleluia!\\%0a[[Christ]], the Saviour is born\\%0a[[Christ]], the Saviour is born\\\%0a%0aSilent night, holy night\\%0aSon of God, love's pure light%0aRadiant beams from Thy holy face\\%0aWith the dawn of redeeming grace\\%0aJesus, Lord, at Thy birth\\%0aJesus, Lord, at Thy birth
+time=1198174133
+author:1198174133=gnugnu
+diff:1198174133:1198173240:=6,7c6,7%0a%3c Sleep in heavenly peace\\\%0a%3c %0a---%0a> Sleep in heavenly peace\\%0a> %0a13,14c13,14%0a%3c [[Christ]], the Saviour is born\\\%0a%3c %0a---%0a> [[Christ]], the Saviour is born\\%0a> %0a
+host:1198174133=24.215.192.216
+author:1198173240=gnugnu
+diff:1198173240:1198173227:=20c20%0a%3c Jesus, Lord, at Thy birth%0a\ No newline at end of file%0a---%0a> Jesus, Lord, at Thy birth\\%0a\ No newline at end of file%0a
+host:1198173240=24.215.192.216
+author:1198173227=gnugnu
+diff:1198173227:1198173227:=1,20d0%0a%3c Silent night, holy night\\%0a%3c All is calm, all is bright\\%0a%3c Round yon Virgin Mother and Child\\%0a%3c Holy Infant so tender and mild\\%0a%3c Sleep in heavenly peace\\%0a%3c Sleep in heavenly peace\\%0a%3c %0a%3c Silent night, holy night!\\%0a%3c Shepherds quake at the sight\\%0a%3c Glories stream from heaven afar\\%0a%3c Heavenly hosts sing Alleluia!\\%0a%3c [[Christ]], the Saviour is born\\%0a%3c [[Christ]], the Saviour is born\\%0a%3c %0a%3c Silent night, holy night\\%0a%3c Son of God, love's pure light%0a%3c Radiant beams from Thy holy face\\%0a%3c With the dawn of redeeming grace\\%0a%3c Jesus, Lord, at Thy birth\\%0a%3c Jesus, Lord, at Thy birth\\%0a\ No newline at end of file%0a
+host:1198173227=24.215.192.216

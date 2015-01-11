@@ -1,0 +1,20 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+author=gnugnu
+csum=
+ctime=1197419155
+host=134.173.94.220
+name=Main.ToTheGuyWhoStuckHisPenisInMyFace
+rev=3
+targets=Main.Penis,Main.LoveThatMakesYouKindOfCreepy
+text=To the Guy Who Stuck His [[Penis]] in My Face...%0aDate: 2007-08-31, 12:49PM EDT%0a%0a%0aYou are ridiculous. Have some tact, you asshole.%0a%0aI met you for the first time, and after a decent dinner of grilled chicken, roasted redskin potatoes and asparagus, you asked me to your place. You were harmless. We talked for weeks. You weren't a [[LoveThatMakesYouKindOfCreepy|creep]]- so I obliged.%0a%0aDuring the movie you suggested, (Who the hell makes a girl sit through Full Metal Jacket on a first date?) you appeared next to me, stealthily and poked your [[penis]] in my face, and in the midst of silently pleasuring yourself, asked if you could "come on my face."%0a%0aAfter I shot up in disgust, you continued to stroke yourself, and told me that I was so pretty that you couldn't help it. Then, as I RAN for the door (thank god I was wearing slip on shoes!) you proceeded to "finish" all over the dining room floor.%0a%0a%0aThanks for that, Firefighter. Please, PLEASE put your HOSE away.... you disgusting pig..............%0a%0a(from [[http://www.craigslist.org/about/best/cle/410701496.html|craigslist]])
+time=1197420552
+author:1197420552=gnugnu
+diff:1197420552:1197419184:=1c1%0a%3c To the Guy Who Stuck His [[Penis]] in My Face...%0a---%0a> To the Guy Who Stuck His Penis in My Face...%0a9,10c9,10%0a%3c During the movie you suggested, (Who the hell makes a girl sit through Full Metal Jacket on a first date?) you appeared next to me, stealthily and poked your [[penis]] in my face, and in the midst of silently pleasuring yourself, asked if you could "come on my face."%0a%3c %0a---%0a> During the movie you suggested, (Who the hell makes a girl sit through Full Metal Jacket on a first date?) you appeared next to me, stealthily and poked your penis in my face, and in the midst of silently pleasuring yourself, asked if you could "come on my face."%0a> %0a
+host:1197420552=134.173.94.220
+author:1197419184=gnugnu
+diff:1197419184:1197419155:=14,16c14%0a%3c Thanks for that, Firefighter. Please, PLEASE put your HOSE away.... you disgusting pig..............%0a%3c %0a%3c (from [[http://www.craigslist.org/about/best/cle/410701496.html|craigslist]])%0a\ No newline at end of file%0a---%0a> Thanks for that, Firefighter. Please, PLEASE put your HOSE away.... you disgusting pig..............%0a\ No newline at end of file%0a
+host:1197419184=134.173.94.220
+author:1197419155=gnugnu
+diff:1197419155:1197419155:=1,14d0%0a%3c To the Guy Who Stuck His Penis in My Face...%0a%3c Date: 2007-08-31, 12:49PM EDT%0a%3c %0a%3c %0a%3c You are ridiculous. Have some tact, you asshole.%0a%3c %0a%3c I met you for the first time, and after a decent dinner of grilled chicken, roasted redskin potatoes and asparagus, you asked me to your place. You were harmless. We talked for weeks. You weren't a [[LoveThatMakesYouKindOfCreepy|creep]]- so I obliged.%0a%3c %0a%3c During the movie you suggested, (Who the hell makes a girl sit through Full Metal Jacket on a first date?) you appeared next to me, stealthily and poked your penis in my face, and in the midst of silently pleasuring yourself, asked if you could "come on my face."%0a%3c %0a%3c After I shot up in disgust, you continued to stroke yourself, and told me that I was so pretty that you couldn't help it. Then, as I RAN for the door (thank god I was wearing slip on shoes!) you proceeded to "finish" all over the dining room floor.%0a%3c %0a%3c %0a%3c Thanks for that, Firefighter. Please, PLEASE put your HOSE away.... you disgusting pig.............. %0a\ No newline at end of file%0a
+host:1197419155=134.173.94.220

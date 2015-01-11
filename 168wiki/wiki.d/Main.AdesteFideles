@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-us) AppleWebKit/523.10.3 (KHTML, like Gecko) Version/3.0.4 Safari/523.10
+author=gnugnu
+csum=
+ctime=1198175055
+host=24.215.192.216
+name=Main.AdesteFideles
+rev=1
+targets=Main.Christ
+text=Adeste fideles,\\%0aLaeti triumphantes;\\%0aVenite, venite in Bethlehem;\\%0aNatum videte,\\%0aRegem Angelorum:\\\%0a%0aRefrain:\\%0aVenite adoremus,\\%0aVenite adoremus,\\%0aVenite adoremus [[Christ|Dominum]]!\\%0a%0a2. Deum de Deo,\\%0aLumen de lumine,\\%0aGestant puellae viscera;\\%0aDeum verum,\\%0aGenitum, non factum:\\%0aRefrain\\\%0a%0a3. Cantet nunc hymnos\\%0aChorus angelorum,\\%0aCantet nunc aula caelestium:\\%0aGloria, gloria,\\%0aIn excelsis Deo!\\%0aRefrain\\\%0a%0a4. Ergo qui natus\\%0aDie hodierna,\\%0aJesu tibi sit gloria;\\%0aPatris aeterni\\%0aVerbum caro factum!\\%0aRefrain
+time=1198175055
+author:1198175055=gnugnu
+diff:1198175055:1198175055:=1,31d0%0a%3c Adeste fideles,\\%0a%3c Laeti triumphantes;\\%0a%3c Venite, venite in Bethlehem;\\%0a%3c Natum videte,\\%0a%3c Regem Angelorum:\\\%0a%3c %0a%3c Refrain:\\%0a%3c Venite adoremus,\\%0a%3c Venite adoremus,\\%0a%3c Venite adoremus [[Christ|Dominum]]!\\%0a%3c %0a%3c 2. Deum de Deo,\\%0a%3c Lumen de lumine,\\%0a%3c Gestant puellae viscera;\\%0a%3c Deum verum,\\%0a%3c Genitum, non factum:\\%0a%3c Refrain\\\%0a%3c %0a%3c 3. Cantet nunc hymnos\\%0a%3c Chorus angelorum,\\%0a%3c Cantet nunc aula caelestium:\\%0a%3c Gloria, gloria,\\%0a%3c In excelsis Deo!\\%0a%3c Refrain\\\%0a%3c %0a%3c 4. Ergo qui natus\\%0a%3c Die hodierna,\\%0a%3c Jesu tibi sit gloria;\\%0a%3c Patris aeterni\\%0a%3c Verbum caro factum!\\%0a%3c Refrain%0a\ No newline at end of file%0a
+host:1198175055=24.215.192.216
